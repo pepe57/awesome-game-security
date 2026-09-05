@@ -583,6 +583,7 @@ Compiled knowledge catalog for awesome-game-security.
 - [CFB](entities/cfb.md) — Canadian Furious Beaver IRP monitor (filter driver hooks dispatch table; C driver + Python client; IOCTL RE / fuzzing)
 
 - [cet-research](entities/cet-research.md) — CET / shadow-stack research (C; Windows Security Features)
+- [cet-spoofing-detection](entities/cet-spoofing-detection.md) — PoC: detect stack spoofing in CET-enabled processes (shadow stack vs user stack; usermode; Clang/CMake; 0xjbb; Detection:Spoof Stack)
 - [cet-win10](entities/cet-win10.md) — Windows 10 Intel CET research (shadow stack + IBT; kernel forward/backward-edge CFI; gmh5225)
 - [CFG-FindHiddenShellcode](entities/cfg-find-hidden-shellcode.md) — CFG bitmap inconsistency shellcode scanner (C; valid call targets outside module code)
 - [cfgdump](entities/cfgdump.md) — WinDbg extension: inspect Control Flow Guard coverage (C++; print CFG maps, query ranges, list protected regions; JKornev; Analyze Control Flow Guard map)
