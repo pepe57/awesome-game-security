@@ -3870,15 +3870,11 @@
     "description:0xrawsec/whids": "15399e2107030ae71d0c1180b992599d1be3414b13ec0fd4ac8979c30a8f3716",
     "description:0xor0ne/debugoff": "f671eb865854a6b3da74f5f653f394cc4f6e3f971f941f2e4a845cac68565dc8",
     "description:0xjbb/cet-spoofing-detection": "8f79e33adad15a69f104871c10f05f69d9d0d566fb77d904d66944b93e20e0cc",
-    "description:0xjbb/EyYoEtwWhereYouAt": "489adb092e06ad7acd46f87c10f1de47cfad244126e801a7d716c43184eb2d63"
+    "description:0xjbb/EyYoEtwWhereYouAt": "489adb092e06ad7acd46f87c10f1de47cfad244126e801a7d716c43184eb2d63",
+    "description:0xiuks/ceserver-ios": "361298f6b41051530791f07c05373075c6bd72aaaf1da77009a3c86a4c007d81"
   },
   "pending": [],
   "ingested": [
-    {
-      "id": "description:Guardsquare/proguard",
-      "kind": "description",
-      "at": "2026-08-25"
-    },
     {
       "id": "description:Guardsquare/flutter-re-demo",
       "kind": "description",
@@ -6371,6 +6367,11 @@
     },
     {
       "id": "description:0xjbb/EyYoEtwWhereYouAt",
+      "kind": "description",
+      "at": "2026-09-05"
+    },
+    {
+      "id": "description:0xiuks/ceserver-ios",
       "kind": "description",
       "at": "2026-09-05"
     }

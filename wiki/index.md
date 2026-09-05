@@ -574,7 +574,7 @@ Compiled knowledge catalog for awesome-game-security.
 - [ce-easyanticheat-bypass](entities/ce-easyanticheat-bypass.md) — Cheat Engine bypass for EAC (CE process/window class/driver/memory-access evasion; UD CE; gmh5225)
 - [ce-tutorial](entities/ce-tutorial.md) — Cheat Engine register tutorial (register roles vs common illustrations; cheat / guide)
 - [ce_speed_hack](entities/ce-speed-hack.md) — compact C++ CE-style speed hack (Detours timing hooks; core hooking logic for learners; user-mode time manipulation; IamSanjid)
-- [ceserver-ios](entities/ceserver-ios.md) — Cheat Engine ceserver for jailbroken iOS (desktop CE remote scan/edit/pointer scan; dynamic analysis; gmh5225)
+- [ceserver-ios](entities/ceserver-ios.md) — Cheat Engine ceserver for iOS (jailed/jailbroken; desktop CE remote scan/edit, breakpoints, pointer scan; 0xiuks)
 - [ceserver-rawmem](entities/ceserver-rawmem.md) — Cheat Engine ceserver over raw physical memory (`/dev/mem` or DMA; bypasses OS process APIs and anti-cheat monitoring; cs1ime)
 - [CapcomDKOM](entities/capcom-dkom.md) — Capcom.sys BYOVD DKOM tool (IOCTL 0xAA013044; kernel shellcode via MmGetSystemRoutineAddress; gmh5225)
 - [CapcomLib](entities/capcomlib.md) — reflexive DSE-bypass kernel driver loader (custom PE loader; default Capcom.sys BYOVD; modular signed-driver backends; gmh5225)

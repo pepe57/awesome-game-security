@@ -4,6 +4,8 @@ Append-only journal of ingest / lint / skill-sync activity.
 
 ---
 
+- **2026-09-05** — ingest `description:0xiuks/ceserver-ios`: updated entity [[ceserver-ios]] (0xiuks; C/C++ iOS Cheat Engine ceserver port; jailed and jailbroken workflows; memory search/edit, breakpoints, watchpoints, pointer scan, instruction patching; Windows plugins for iOS stack traces and RTTI; mobile RE / game security); cited on [[overviews/mobile-security]] and [[overviews/game-hacking]]; cross-linked [[frida-ceserver]], [[h5gg]], [[vansonmod]], and [[kittymemory-ios]].
+
 - **2026-09-05** — ingest `description:0xjbb/EyYoEtwWhereYouAt`: entity [[eyyoetwwhereyouat]] (0xjbb; ETW process monitor PoC; kernel EtwDriver + krabs etw_exe; thread/image/memory events; correlate kernel notifications with missing ETW output to detect ETW patching; injection/hollowing heuristics; CMake/MSVC; README PoC); cited on [[concepts/etw-threat-intelligence]] and [[overviews/windows-kernel]]; cross-linked [[etwti-fluctuation-monitor]], [[openprocmon]], [[fibratus]], [[amsi-etw-patch]], and [[cet-spoofing-detection]].
 
 - **2026-09-05** — ingest `description:0xjbb/cet-spoofing-detection`: entity [[cet-spoofing-detection]] (0xjbb; usermode PoC; compares hardware shadow stack vs user-mode call stack for missing/mismatched frames in CET-enabled processes; Clang/CMake; stack-spoof detection research; Detection:Spoof Stack); cited on [[concepts/stack-spoofing]] and [[overviews/anti-cheat]]; cross-linked [[shadow-stack-walk]], [[query-shadow-stack]], and [[cet-research]].
