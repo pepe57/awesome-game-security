@@ -11,9 +11,18 @@ confidence: medium
 
 # MOABile
 
-All-in-one mobile security toolkit with a terminal UI for assessing Android and iOS apps from a desktop host. Python-based; supports simultaneous multi-device management, dual-pane host↔device file transfer, live scrcpy mirroring, and automated Frida plus Objection setup for runtime inspection. Integrates ADB (Android), iproxy, and ioscpy (iOS) behind an arrow-key navigable TUI with real-time status updates. (source: wiki/sources/descriptions/jafarm189__MOABile.md)
+All-in-one mobile security toolkit that unifies professional testing utilities into a single text-based interface for assessing Android and iOS application security from a desktop computer. (source: wiki/sources/descriptions/jafarm189__MOABile.md)
 
-Targets penetration testers, mobile security researchers, and developers performing authorized local assessments on owned devices — including game clients probed via [[frida]] for SSL pinning, root checks, and in-memory hooks.
+## Capabilities
+
+- **Multi-device** — simultaneous Android and iOS session management from one host
+- **Connectivity** — ADB (Android); iproxy and ioscpy (iOS)
+- **File transfer** — dual-pane host↔device copy
+- **Screen mirror** — live display via [[scrcpy]]
+- **Runtime inspection** — automated Frida and Objection setup for attach/spawn and app exploration
+- **Interface** — Python TUI with arrow-key navigation and real-time status updates
+
+Aimed at penetration testers, mobile security researchers, and developers who need an accessible way to perform authorized local security assessments on devices they own — including game clients probed via [[frida]] for SSL pinning, root checks, and in-memory hooks. (source: wiki/sources/descriptions/jafarm189__MOABile.md)
 
 ## Links
 

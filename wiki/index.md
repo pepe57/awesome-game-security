@@ -2293,7 +2293,7 @@ Compiled knowledge catalog for awesome-game-security.
 - [MBA-Obfuscator](entities/mba-obfuscator.md) — non-linear MBA expressions (mba_obfuscator/ + samples/; Cheat Mixed boolean-arithmetic)
 - [mbased](entities/mbased.md) — practical MBA simplification (bliutech; Cheat Mixed boolean-arithmetic)
 - [mast-orchestrator](entities/mast-orchestrator.md) — Flask web dashboard for rooted Android Frida testing; ADB device/root checks, one-click frida-server deploy, SSL pinning/root/crypto hooks, remote script fetch, live output stream, token-auth API (GliTcHZzZ67; cheat / Frida)
-- [moabille](entities/moabille.md) — Python multi-device terminal UI for Android/iOS mobile app testing; Frida + Objection setup, adb/scrcpy/iproxy orchestration, dual-pane file transfer (jafarm189; cheat / Frida)
+- [moabille](entities/moabille.md) — All-in-one Python TUI mobile security toolkit; multi-device Android/iOS; dual-pane file transfer, scrcpy mirror, automated Frida + Objection setup; ADB/iproxy/ioscpy (jafarm189; cheat / Frida)
 - [mcdota](entities/mcdota.md) — Linux Dota 2 cheat/tinkering framework (LWSS; C++; runtime injection; Panorama UI, ESP, protobuf packet intercept/edit; standard/stealth/integrated load modes; cheat / game:dota2 [linux])
 - [mcp-gdb](entities/mcp-gdb.md) — GDB MCP server (breakpoints / memory / registers / step; AI debug)
 - [mcp-safety-scanner](entities/mcp-safety-scanner.md) — automated MCP safety auditing + remediation via agents (Game Develop / MCP security)
