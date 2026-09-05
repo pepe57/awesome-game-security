@@ -4,6 +4,8 @@ Append-only journal of ingest / lint / skill-sync activity.
 
 ---
 
+- **2026-09-05** — ingest `description:0xflux/Sanctum`: entity [[sanctum]] (0xflux; experimental Windows EDR PoC; Rust; kernel driver + user-mode engine + Tauri UI; process/thread/filesystem/syscall monitoring; ETW consumers, minifilter, kernel hooking/containment; low-level defensive tooling research; README [EDR]); cited on [[overviews/windows-kernel]] and [[overviews/anti-cheat]]; cross-linked [[openedr]], [[bluespawn]], [[whids]], [[peregrine-anticheat]], [[fibratus]], [[openprocmon]], [[etw-threat-intelligence]], and [[stresser]].
+
 - **2026-09-05** — ingest `description:0xiuks/ceserver-ios`: updated entity [[ceserver-ios]] (0xiuks; C/C++ iOS Cheat Engine ceserver port; jailed and jailbroken workflows; memory search/edit, breakpoints, watchpoints, pointer scan, instruction patching; Windows plugins for iOS stack traces and RTTI; mobile RE / game security); cited on [[overviews/mobile-security]] and [[overviews/game-hacking]]; cross-linked [[frida-ceserver]], [[h5gg]], [[vansonmod]], and [[kittymemory-ios]].
 
 - **2026-09-05** — ingest `description:0xjbb/EyYoEtwWhereYouAt`: entity [[eyyoetwwhereyouat]] (0xjbb; ETW process monitor PoC; kernel EtwDriver + krabs etw_exe; thread/image/memory events; correlate kernel notifications with missing ETW output to detect ETW patching; injection/hollowing heuristics; CMake/MSVC; README PoC); cited on [[concepts/etw-threat-intelligence]] and [[overviews/windows-kernel]]; cross-linked [[etwti-fluctuation-monitor]], [[openprocmon]], [[fibratus]], [[amsi-etw-patch]], and [[cet-spoofing-detection]].
