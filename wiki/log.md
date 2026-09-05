@@ -4,6 +4,8 @@ Append-only journal of ingest / lint / skill-sync activity.
 
 ---
 
+- **2026-09-05** — ingest `description:0xenia/remem`: entity [[remem]] (0xenia; header-only C++ Windows memory library; typed RPM/WPM with pointer validation, optional exception handling/logging, pattern scan, calling-convention call wrappers; RE tools / game memory research; cheat / RPM for Windows); cited on [[overviews/game-hacking]] and [[overviews/reverse-engineering]]; cross-linked [[libmem]], [[blackbone]], [[umpmlib]], [[creadmemory]], and [[shirakumo]].
+
 - **2026-09-05** — ingest `description:0xf1a/DSMM`: entity [[dsmm]] (0xf1a; C kernel PoC; manual map into discarded section of legitimate signed driver; post-boot system thread; PatchGuard-trigger avoidance research; advanced kernel stealth loading; README [Discarded Driver Section Manual Map]); cited on [[overviews/windows-kernel]] and [[overviews/anti-cheat]]; cross-linked [[sinmapper]], [[lpmapper]], [[driver-dll-finder]], [[nullmap]], [[iocreatedriver]], [[patchguard]], and [[known-driver-mappers]].
 
 - **2026-09-05** — ingest `description:jafarm189/MOABile`: updated entity [[moabille]] (jafarm189; all-in-one Python TUI mobile security toolkit; multi-device Android/iOS; dual-pane file transfer, scrcpy mirror, automated Frida + Objection setup; ADB/iproxy/ioscpy; penetration testing / authorized local assessment); cited on [[concepts/frida]]; cross-linked [[scrcpy]], [[rootraven]], [[mast-orchestrator]], and [[frida-ide]].
