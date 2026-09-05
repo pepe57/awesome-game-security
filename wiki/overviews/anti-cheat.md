@@ -519,6 +519,7 @@ sources:
   - wiki/sources/descriptions/Compiled-Code__be-injector.md
   - wiki/sources/descriptions/ComodoSecurity__openedr.md
   - wiki/sources/descriptions/0xrawsec__whids.md
+  - wiki/sources/descriptions/0xor0ne__debugoff.md
   - wiki/sources/descriptions/ContionMig__LSASS-Usermode-Bypass.md
   - wiki/sources/descriptions/ConWan30__QorTroller.md
   - wiki/sources/descriptions/Cracked5pider__KaynStrike.md
@@ -1044,6 +1045,7 @@ Structured research indexes such as [[anti-cheat-research-index]] catalog public
 - [[antidbg-hackovert]] — Windows curated anti-debug technique collection (HackOvert; C/C++ + x86/x64 asm; memory structure, CPU/timing, forced exceptions; gauntlet sequential test app; RE education + anti-analysis defense evaluation; Anti Debugging) (source: wiki/sources/descriptions/HackOvert__AntiDBG.md)
 - [[cpp-anti-debug]] — Windows C++ anti-debugging library (BaumFX; PEB/API/exception/timing/debug-register checks; per-check functions + combined runtime security-check entry; anti-tamper prototyping and debugger-detection technique study; Anti Debugging) (source: wiki/sources/descriptions/BaumFX__cpp-anti-debug.md)
 - [[ladd]] — Linux C anti-debugging detection tool (BarakAharoni; ptrace behavior, LD_PRELOAD tampering, TracerPid in /proc/self/status; early runtime checks; anti-analysis research and defensive hardening experiments; Anti Debugging) (source: wiki/sources/descriptions/BarakAharoni__LADD.md)
+- [[debugoff]] — Linux Rust anti-analysis/anti-debug library (0xor0ne; direct syscalls without libc; syscall obfuscation; chained/randomized ptrace validation with tamper termination; binary hardening against RE; Anti Debugging / Linux) (source: wiki/sources/descriptions/0xor0ne__debugoff.md)
 - [[showstopper]] — Windows anti-debug exploration tool (CheckPointSW; large malware/research check collection; exposes function addresses; attach debuggers and compare tools/plugins/mitigations; anti-anti-debug validation; Anti Debugging) (source: wiki/sources/descriptions/CheckPointSW__showstopper.md)
 - [[racecondition]] — Windows C++ Visual Studio PoC; native NT API probes of debug ports, hidden-thread behavior, and debugger artifacts; race-condition timing bypasses against common userland hide mechanisms; anti-anti-debug technique research (Ahora57; Anti Debugging) (source: wiki/sources/descriptions/Ahora57__RaceCondition.md)
 - [[majesty-technologies]] — experimental Windows kernel driver; DKOM-style structure manipulation, instrumentation callback checks, hardware breakpoint checks, process/thread flag hardening, anti-hypervisor timing/anomaly probes; anti-cheat and protection research for kernel-level debugger resistance (Ahora57; Anti Debugging) (source: wiki/sources/descriptions/Ahora57__MAJESTY-technologies.md)

@@ -4,6 +4,8 @@ Append-only journal of ingest / lint / skill-sync activity.
 
 ---
 
+- **2026-09-05** — ingest `description:0xor0ne/debugoff`: entity [[debugoff]] (0xor0ne; Rust; Linux anti-analysis/anti-debug library; direct syscalls without libc; syscall-level obfuscation; chained/randomized ptrace checks with tamper termination; binary hardening against RE; README Linux); cited on [[overviews/reverse-engineering]] and [[overviews/anti-cheat]]; cross-linked [[ladd]], [[adbg]], [[cpp-anti-debug]], and [[antidbg]].
+
 - **2026-09-05** — ingest `description:0xrawsec/whids`: entity [[whids]] (0xrawsec; open-source Windows EDR; Go; detection-driven response; ETW + Sysmon telemetry; Gene rule engine; alert-triggered artifact collection—files, registry, process memory; manager service + admin API; incident response / enterprise endpoint monitoring; README [EDR]); cited on [[overviews/windows-kernel]] and [[overviews/anti-cheat]]; cross-linked [[openedr]], [[bluespawn]], [[bamboozledr]], [[fibratus]], [[openprocmon]], [[etw-threat-intelligence]], and [[stresser]].
 
 - **2026-09-05** — ingest `description:0xricksanchez/Shellcoder`: entity [[shellcoder]] (0xricksanchez; Python Binary Ninja plugin; multi-arch shellcode assemble/disassemble; inline/spaced hex, Python byte strings, C arrays; rapid payload iteration; RE / exploit prototyping / shellcode research; README BinaryNinja Shellcoder Plugin); cited on [[overviews/reverse-engineering]] and [[overviews/game-hacking]]; cross-linked [[shellcrypt]], [[shellcode-factory]], [[quickasm]], [[seh-helper]], [[bn]], and [[binary-ninja-mcp]].

@@ -3867,15 +3867,11 @@
     "description:1027565/InstrumentationCallbacks": "a063127e940613762082ef6352aa127eca676a4eb119f6b477db4f1b6cf1aa90",
     "description:1013503897/Morphida": "78627125a0c6e991ceafb8e553c3ff88a11c82cf2f6f23a703e7368c5199576b",
     "description:0xricksanchez/Shellcoder": "3e45f8c2b13e061e631333e9c9f3653fc03574116ec71341e7ecf6dce3ecf6ec",
-    "description:0xrawsec/whids": "15399e2107030ae71d0c1180b992599d1be3414b13ec0fd4ac8979c30a8f3716"
+    "description:0xrawsec/whids": "15399e2107030ae71d0c1180b992599d1be3414b13ec0fd4ac8979c30a8f3716",
+    "description:0xor0ne/debugoff": "f671eb865854a6b3da74f5f653f394cc4f6e3f971f941f2e4a845cac68565dc8"
   },
   "pending": [],
   "ingested": [
-    {
-      "id": "description:H1d3r/GPU_ShellCode",
-      "kind": "description",
-      "at": "2026-08-25"
-    },
     {
       "id": "description:GunshipPenguin/kiteshield",
       "kind": "description",
@@ -6368,6 +6364,11 @@
     },
     {
       "id": "description:0xrawsec/whids",
+      "kind": "description",
+      "at": "2026-09-05"
+    },
+    {
+      "id": "description:0xor0ne/debugoff",
       "kind": "description",
       "at": "2026-09-05"
     }

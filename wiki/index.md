@@ -869,6 +869,7 @@ Compiled knowledge catalog for awesome-game-security.
 - [WProtect (DeDf)](entities/dedf-wprotect.md) — Windows PE code virtualizer (disassemble→VM bytecode, jump stubs, new section; AsmJit + udis86; software protection / VM anti-tamper research; DeDf)
 - [DeepSleep](entities/deepsleep.md) — x64 Gargoyle variant; ROP-only + PIC sleep-hide (no APCs; page protection)
 - [debug-remover](entities/debug-remover.md) — C/C++ strip debug info from binaries (Anti Cheat → Binary Packer; anti-RE hardening)
+- [debugoff](entities/debugoff.md) — Linux Rust anti-analysis/anti-debug library (0xor0ne; direct syscalls without libc; syscall obfuscation; chained/randomized ptrace validation with tamper termination; binary hardening against RE; Anti Debugging / Linux)
 - [deadcell-csgo](entities/deadcell-csgo.md) — CS:GO internal cheat framework full source (EternityX; C++; aiming, visuals, config, menu; build-and-study learning codebase; legacy Source 1; cheat / game:csgo)
 - [Dead-Anticheat](entities/dead-anticheat.md) — FiveM server-side Lua anticheat (CitizenFX; noclip/spectate/godmode/mod-menu globals; JSON bans + Discord webhooks; Dead-Scripts)
 - [deadlock-anti-cheat](entities/deadlock-anti-cheat.md) — UrnIt user-mode Deadlock session AC (process/screenshot/key/HWID logging; Discord webhook; tournament review)
