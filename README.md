@@ -1310,6 +1310,7 @@ npx skills add https://github.com/gmh5225/awesome-game-security --skill reverse-
 - https://github.com/ChiChou/grapefruit [Runtime mobile instrumentation toolkit for iOS/Android, web UI]
 - https://github.com/firerpa/lamda [Android full-stack device control with built-in Frida, MITM, UI automation, and reverse-engineering APIs]
 - https://github.com/Kakaxh1/RootRaven [Self-hosted Android/iOS pentest dashboard with Frida hooking, SSL pinning bypass, APK decompilation, and Burp proxy setup]
+- https://github.com/jafarm189/MOABile [Multi-device terminal UI for Android/iOS mobile app testing with Frida, Objection, adb, scrcpy, and iproxy orchestration]
 - https://github.com/GliTcHZzZ67/mast-orchestrator [Flask web dashboard to deploy frida-server on rooted Android devices and run whitelisted injection scripts (SSL pinning bypass, root detection bypass, crypto monitoring)]
 - https://github.com/index-login/MobileRE-Skill [AI-agent mobile reverse-engineering skill set with layered Frida hooks and a six-stage anti-detection pipeline]
 - https://github.com/ChiChou/vscode-frida [Unofficial Frida extension for VSCode]
