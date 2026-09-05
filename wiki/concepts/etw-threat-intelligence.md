@@ -21,6 +21,7 @@ sources:
   - wiki/sources/descriptions/Mr-Un1k0d3r__AMSI-ETW-Patch.md
   - wiki/sources/descriptions/Idov31__EtwLeakKernel.md
   - wiki/sources/descriptions/2x7EQ13__CreateProcessAsPPL.md
+  - wiki/sources/descriptions/0xjbb__EyYoEtwWhereYouAt.md
 updated: 2026-09-05
 confidence: high
 ---
@@ -69,8 +70,9 @@ Stress-testing samples such as [[disable-threat-tracing]] sit on the disable/bli
 
 - **EPT-based protection:** hypervisor second-stage permissions can trap unauthorized writes to ETW globals and registration structures — guest kernel R/W alone cannot silently patch them when policy remains trustworthy. See [[hvci]] / hypervisor defense in [[overviews/windows-kernel]].
 - **Registration tamper monitors:** real-time EtwTi callback registration fluctuation detectors such as [[etwti-fluctuation-monitor]] alert when provider registrations are removed or patched — the defensive counterpart to registration-walk bypasses. (source: wiki/sources/descriptions/jdu2600__EtwTi-FluctuationMonitor.md)
+- **Kernel-vs-ETW correlation:** ETW process monitors such as [[eyyoetwwhereyouat]] (0xjbb; kernel driver + krabs user-mode engine; thread/image/memory events; correlate kernel notifications with missing ETW output to detect ETW patching; injection/hollowing heuristics) expose blinded telemetry when callbacks fire but expected provider events never arrive. (source: wiki/sources/descriptions/0xjbb__EyYoEtwWhereYouAt.md)
 - **Cross-checks:** combine TI ETW with [[kernel-callbacks]], handle stripping, and [[kernel-pool-scanning]] for layered detection.
 
 ## Related
 
-[[kernel-callbacks]] · [[hvci]] · [[etw-explorer]] · [[etw-watcher]] · [[etwleakkernel]] · [[etwti-fluctuation-monitor]] · [[etw-syscall-monitor]] · [[etw-syscall]] · [[infinityhook]] · [[etwhook-infinityhookclass]] · [[infinityhook-promax]] · [[infinityhook-latest]] · [[infinityhook-pro]] · [[infinityhookpro-main]] · [[tietwagent]] · [[threat-intelligence-consumer]] · [[etwti-syscall-hook]] · [[disable-threat-tracing]] · [[amsi-etw-patch]] · [[kernel-callback-removal]] · [[createprocessasppl]] · [[overviews/windows-kernel]] · [[overviews/anti-cheat]]
+[[kernel-callbacks]] · [[hvci]] · [[etw-explorer]] · [[etw-watcher]] · [[etwleakkernel]] · [[etwti-fluctuation-monitor]] · [[eyyoetwwhereyouat]] · [[etw-syscall-monitor]] · [[etw-syscall]] · [[infinityhook]] · [[etwhook-infinityhookclass]] · [[infinityhook-promax]] · [[infinityhook-latest]] · [[infinityhook-pro]] · [[infinityhookpro-main]] · [[tietwagent]] · [[threat-intelligence-consumer]] · [[etwti-syscall-hook]] · [[disable-threat-tracing]] · [[amsi-etw-patch]] · [[kernel-callback-removal]] · [[createprocessasppl]] · [[overviews/windows-kernel]] · [[overviews/anti-cheat]]
