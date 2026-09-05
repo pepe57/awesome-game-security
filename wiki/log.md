@@ -4,6 +4,8 @@ Append-only journal of ingest / lint / skill-sync activity.
 
 ---
 
+- **2026-09-05** — ingest `description:0xf1a/DSMM`: entity [[dsmm]] (0xf1a; C kernel PoC; manual map into discarded section of legitimate signed driver; post-boot system thread; PatchGuard-trigger avoidance research; advanced kernel stealth loading; README [Discarded Driver Section Manual Map]); cited on [[overviews/windows-kernel]] and [[overviews/anti-cheat]]; cross-linked [[sinmapper]], [[lpmapper]], [[driver-dll-finder]], [[nullmap]], [[iocreatedriver]], [[patchguard]], and [[known-driver-mappers]].
+
 - **2026-09-05** — ingest `description:jafarm189/MOABile`: updated entity [[moabille]] (jafarm189; all-in-one Python TUI mobile security toolkit; multi-device Android/iOS; dual-pane file transfer, scrcpy mirror, automated Frida + Objection setup; ADB/iproxy/ioscpy; penetration testing / authorized local assessment); cited on [[concepts/frida]]; cross-linked [[scrcpy]], [[rootraven]], [[mast-orchestrator]], and [[frida-ide]].
 
 - **2026-09-05** — ingest `readme:categories`: Cheat ~2786 (+1; jafarm189/[[moabille]] multi-device Android/iOS Frida TUI in Frida) / Anti Cheat ~708 / other major section counts stable; 41 sections; entity [[moabille]]; refreshed README-map counts and scope on [[overviews/overview]], [[overviews/game-hacking]], [[overviews/mobile-security]], [[overviews/reverse-engineering]], and [[overviews/dma-attack]]; light `index.md` section notes (no per-category pages).

@@ -3873,15 +3873,11 @@
     "description:0xjbb/EyYoEtwWhereYouAt": "489adb092e06ad7acd46f87c10f1de47cfad244126e801a7d716c43184eb2d63",
     "description:0xiuks/ceserver-ios": "361298f6b41051530791f07c05373075c6bd72aaaf1da77009a3c86a4c007d81",
     "description:0xflux/Sanctum": "7bed4fdc35f8e1e8172f3b2ef3eb946e9e7e713603829d45f392cea887c16551",
-    "description:jafarm189/MOABile": "dd80fc9ff900a3eee76c693559b93f78f4a76d716b1e66710f362108a1b39334"
+    "description:jafarm189/MOABile": "dd80fc9ff900a3eee76c693559b93f78f4a76d716b1e66710f362108a1b39334",
+    "description:0xf1a/DSMM": "5c03748b7c85f0cd0da238e850514e0196a69d62ba4c2b03db2f44b6b5b8dbdf"
   },
   "pending": [],
   "ingested": [
-    {
-      "id": "description:Grasscutters/Grasscutter",
-      "kind": "description",
-      "at": "2026-08-25"
-    },
     {
       "id": "description:GrapheneOS-Archive/kernel_msm-coral",
       "kind": "description",
@@ -6374,6 +6370,11 @@
     },
     {
       "id": "description:jafarm189/MOABile",
+      "kind": "description",
+      "at": "2026-09-05"
+    },
+    {
+      "id": "description:0xf1a/DSMM",
       "kind": "description",
       "at": "2026-09-05"
     }
