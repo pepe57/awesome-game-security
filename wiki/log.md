@@ -4,6 +4,8 @@ Append-only journal of ingest / lint / skill-sync activity.
 
 ---
 
+- **2026-09-05** — ingest `description:0xeb/windbg-copilot`: updated entity [[windbg-copilot]] (0xeb; C++ agentic WinDbg extension; AI Q&A, auto command execution with explanations, multi-provider models, persistent context, decompilation help, HTTP/MCP + CLI; crash triage, exploit debugging, Windows security analysis); cited on [[overviews/windows-kernel]] and [[overviews/reverse-engineering]]; cross-linked [[mcp-windbg]], [[windbg-tool]], [[windbg-scripts]], [[windbg-cookbook]], and [[windbg-decompile-ext]]; noted DumpAnalysis Python alternative.
+
 - **2026-09-05** — ingest `description:0xenia/remem`: entity [[remem]] (0xenia; header-only C++ Windows memory library; typed RPM/WPM with pointer validation, optional exception handling/logging, pattern scan, calling-convention call wrappers; RE tools / game memory research; cheat / RPM for Windows); cited on [[overviews/game-hacking]] and [[overviews/reverse-engineering]]; cross-linked [[libmem]], [[blackbone]], [[umpmlib]], [[creadmemory]], and [[shirakumo]].
 
 - **2026-09-05** — ingest `description:0xf1a/DSMM`: entity [[dsmm]] (0xf1a; C kernel PoC; manual map into discarded section of legitimate signed driver; post-boot system thread; PatchGuard-trigger avoidance research; advanced kernel stealth loading; README [Discarded Driver Section Manual Map]); cited on [[overviews/windows-kernel]] and [[overviews/anti-cheat]]; cross-linked [[sinmapper]], [[lpmapper]], [[driver-dll-finder]], [[nullmap]], [[iocreatedriver]], [[patchguard]], and [[known-driver-mappers]].

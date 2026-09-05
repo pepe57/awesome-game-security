@@ -3875,15 +3875,11 @@
     "description:0xflux/Sanctum": "7bed4fdc35f8e1e8172f3b2ef3eb946e9e7e713603829d45f392cea887c16551",
     "description:jafarm189/MOABile": "dd80fc9ff900a3eee76c693559b93f78f4a76d716b1e66710f362108a1b39334",
     "description:0xf1a/DSMM": "5c03748b7c85f0cd0da238e850514e0196a69d62ba4c2b03db2f44b6b5b8dbdf",
-    "description:0xenia/remem": "85a4c002508622eda5c237be4091f5e0ff8a536872ec6e195792ec67599b7510"
+    "description:0xenia/remem": "85a4c002508622eda5c237be4091f5e0ff8a536872ec6e195792ec67599b7510",
+    "description:0xeb/windbg-copilot": "47e8babe77fcab2d7529b2ef96e3fc7458a8829e24587521ef9843bcb080c9d1"
   },
   "pending": [],
   "ingested": [
-    {
-      "id": "description:Goatman13/ps2_ida_vu_micro",
-      "kind": "description",
-      "at": "2026-08-25"
-    },
     {
       "id": "description:GliTcHZzZ67/mast-orchestrator",
       "kind": "description",
@@ -6376,6 +6372,11 @@
     },
     {
       "id": "description:0xenia/remem",
+      "kind": "description",
+      "at": "2026-09-05"
+    },
+    {
+      "id": "description:0xeb/windbg-copilot",
       "kind": "description",
       "at": "2026-09-05"
     }

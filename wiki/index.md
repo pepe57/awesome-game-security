@@ -3710,7 +3710,7 @@ Compiled knowledge catalog for awesome-game-security.
 - [WinDbg-JS-Scripts](entities/windbg-js-scripts.md) — KasperskyLab JS WinDbg dump triage; exception records, STL map walk, noexcept stack repair, x86-in-x64 kernel stacks (JS Scripts)
 - [WinDbgCookbook](entities/windbg-cookbook.md) — JS WinDbg data-model scripts + dx query recipes; dependency/stack/TTD analysis (TimMisiak; WinDbg)
 - [windbg-tool](entities/windbg-tool.md) — Windows CLI + MCP for WinDbg/TTD; `.run` trace replay, crash-dump triage, live probes; JSON for AI agents (Rust; Devolutions)
-- [WinDbg Copilot](entities/windbg-copilot.md) — AI-assisted WinDbg extension; ChatGPT-style command-output guidance and next-step suggestions (OpenAI/Azure OpenAI; crash/kernel/RE triage)
+- [WinDbg Copilot](entities/windbg-copilot.md) — agentic C++ WinDbg extension; AI Q&A, auto command execution, multi-provider models, HTTP/MCP + CLI (0xeb; crash/exploit/Windows security analysis)
 - [WinDbg-Extensions](entities/windbg-extensions.md) — WinDbg extension; enumerate process/thread/image notify callbacks + driver modules (Callback Extension)
 - [WinDbg_Scripts](entities/windbg-scripts.md) — JS WinDbg scripts for kernel debug/modding (WinDbg Plugins)
 - [WinDiff](entities/windiff.md) — web/CLI cross-build Windows PE symbol, type, and syscall browser/differ (Winbindex + Symbol Server → JSON; Next.js UI)
