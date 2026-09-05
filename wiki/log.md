@@ -4,6 +4,8 @@ Append-only journal of ingest / lint / skill-sync activity.
 
 ---
 
+- **2026-09-05** — ingest `description:0xeb/libghidra`: entity [[libghidra]] (0xeb; C++/Rust/Python JVM-free Ghidra decompiler library; SLEIGH + Pcode; disassembly, decompilation, CFG, types, xrefs; LibGhidraHost HTTP extension or offline Sleigh backend; headless binary analysis); cited on [[overviews/reverse-engineering]]; cross-linked [[ghidra]], [[ghidra-bridge]], [[ghidra-headless-mcp]], and [[headless-ida]].
+
 - **2026-09-05** — ingest `description:0xeb/windbg-copilot`: updated entity [[windbg-copilot]] (0xeb; C++ agentic WinDbg extension; AI Q&A, auto command execution with explanations, multi-provider models, persistent context, decompilation help, HTTP/MCP + CLI; crash triage, exploit debugging, Windows security analysis); cited on [[overviews/windows-kernel]] and [[overviews/reverse-engineering]]; cross-linked [[mcp-windbg]], [[windbg-tool]], [[windbg-scripts]], [[windbg-cookbook]], and [[windbg-decompile-ext]]; noted DumpAnalysis Python alternative.
 
 - **2026-09-05** — ingest `description:0xenia/remem`: entity [[remem]] (0xenia; header-only C++ Windows memory library; typed RPM/WPM with pointer validation, optional exception handling/logging, pattern scan, calling-convention call wrappers; RE tools / game memory research; cheat / RPM for Windows); cited on [[overviews/game-hacking]] and [[overviews/reverse-engineering]]; cross-linked [[libmem]], [[blackbone]], [[umpmlib]], [[creadmemory]], and [[shirakumo]].
