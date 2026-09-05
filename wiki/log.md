@@ -4,6 +4,8 @@ Append-only journal of ingest / lint / skill-sync activity.
 
 ---
 
+- **2026-09-05** — ingest `readme:categories`: Cheat ~2786 (+1; jafarm189/[[moabille]] multi-device Android/iOS Frida TUI in Frida) / Anti Cheat ~708 / other major section counts stable; 41 sections; entity [[moabille]]; refreshed README-map counts and scope on [[overviews/overview]], [[overviews/game-hacking]], [[overviews/mobile-security]], [[overviews/reverse-engineering]], and [[overviews/dma-attack]]; light `index.md` section notes (no per-category pages).
+
 - **2026-09-05** — ingest `description:0xflux/Sanctum`: entity [[sanctum]] (0xflux; experimental Windows EDR PoC; Rust; kernel driver + user-mode engine + Tauri UI; process/thread/filesystem/syscall monitoring; ETW consumers, minifilter, kernel hooking/containment; low-level defensive tooling research; README [EDR]); cited on [[overviews/windows-kernel]] and [[overviews/anti-cheat]]; cross-linked [[openedr]], [[bluespawn]], [[whids]], [[peregrine-anticheat]], [[fibratus]], [[openprocmon]], [[etw-threat-intelligence]], and [[stresser]].
 
 - **2026-09-05** — ingest `description:0xiuks/ceserver-ios`: updated entity [[ceserver-ios]] (0xiuks; C/C++ iOS Cheat Engine ceserver port; jailed and jailbroken workflows; memory search/edit, breakpoints, watchpoints, pointer scan, instruction patching; Windows plugins for iOS stack traces and RTTI; mobile RE / game security); cited on [[overviews/mobile-security]] and [[overviews/game-hacking]]; cross-linked [[frida-ceserver]], [[h5gg]], [[vansonmod]], and [[kittymemory-ios]].
