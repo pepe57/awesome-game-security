@@ -1,0 +1,1 @@
+DeviceResetSpoofer 是一款 Android LSPosed 模块，可在所选应用清除数据后自动为其分配全新的设备身份。该模块使用 Java 编写，通过 Xposed 钩子伪造 Android ID、广告 ID、IMEI/MEID、Wi-Fi MAC、GSF ID、构建指纹及运营商元数据等标识符，且各类钩子可独立开关。模块在应用私有目录中放置隐藏哨兵文件，无需依赖系统广播即可检测数据清除，用户也可在模块配置界面手动触发身份重置。适用于已 root 并运行 LSPosed 的 Android 7 至 16 设备，面向研究或规避移动设备指纹、反作弊检测及应用级硬件封禁的研究人员与用户。
