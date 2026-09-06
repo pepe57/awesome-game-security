@@ -916,7 +916,7 @@ Compiled knowledge catalog for awesome-game-security.
 - [DirectXMath](entities/directxmath.md) — Microsoft SIMD inline C++ vectors/matrices/quaternions + collision (SSE–AVX2/NEON; Mathematics)
 - [Divert (WinDivert)](entities/divert.md) — WFP kernel-driver packet capture/divert; user-mode intercept/modify/drop/inject (C; cheat / Packet Divert; basil00)
 - [Diglett](entities/diglett.md) — kernel-mode stealth PoC; hide system threads + alter entry-address visibility; driver + client (Rwkeith; README Hide Kernel Thread)
-- [Dino Printer](entities/dino-printer.md) — Meteor Client Fabric addon; Litematica schematic auto-build; BlockState matching + multi-point raytracing; anti-cheat-aware placement timing (Gingerbeard5773; cheat / game:minecraft)
+- [Dino Printer](entities/dino-printer.md) — Meteor Client Fabric addon; Litematica schematic auto-build; BlockState matching + multi-point raytracing + hack rotation; built from scratch; anti-cheat-aware placement timing for strict/anarchy servers (Gingerbeard5773; cheat / game:minecraft)
 - [DirtyPipe-Android](entities/dirtypipe-android.md) — Pixel 6 Dirty Pipe (CVE-2022-0847) permanent Magisk v24.3 root
 - [DirtyPipeRoot](entities/dirtypiperoot.md) — Pixel 6 Dirty Pipe (CVE-2022-0847) one-click temporary root
 - [DirtySepolicy](entities/dirty-sepolicy.md) — LSPosed Android App Zygote SELinux probe (AIDL permissive policy injection without root; detect userspace su; Detection:Android root)

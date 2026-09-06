@@ -4,6 +4,8 @@ Append-only journal of ingest / lint / skill-sync activity.
 
 ---
 
+- **2026-09-06** — ingest `description:Gingerbeard5773/dino-printer`: entity [[dino-printer]] (Gingerbeard5773; Java Fabric Meteor Client addon; Litematica schematic auto-build; BlockState matching for stairs/slabs/rotatable blocks; multi-point raytracing for line-of-sight servers; hack rotation; configurable delay/range/sneak/inventory; built from scratch; adapts to anti-cheat placement rules on strict/anarchy servers; cheat / game:minecraft); cited on [[overviews/anti-cheat]] and [[overviews/game-hacking]]; cross-linked [[grim]], [[hexze-anticheat]], [[larping-anti-cheat]], [[lenrete-mod]], and [[omniclutch]].
+
 - **2026-09-06** — ingest `readme:categories`: Cheat ~2787 (+1; Gingerbeard5773/[[dino-printer]] Meteor Client Litematica schematic printer with anti-cheat-aware placement in game:minecraft) / Anti Cheat ~708 / other major section counts stable; 41 sections; entity [[dino-printer]]; refreshed README-map counts and scope on [[overviews/overview]], [[overviews/game-hacking]], [[overviews/reverse-engineering]], and [[overviews/dma-attack]]; light `index.md` section notes (no per-category pages).
 
 - **2026-09-06** — ingest `description:0xcpu/ExecutiveCallbackObjects`: entity [[executive-callback-objects]] (0xcpu; C kernel PoCs + notes; executive callback object registration/inspection across networking, system state, boot, and security families; Windows internals / telemetry visibility / AC+EDR analysis; README Callback); cited on [[overviews/windows-kernel]] and [[overviews/anti-cheat]]; cross-linked [[kernel-callbacks]], [[kernel-callback-functions-list]], [[win-alt-syscall-handler]], [[callmon]], [[openark]], and [[bustercall]].

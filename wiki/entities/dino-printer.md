@@ -6,7 +6,7 @@ sources:
   - wiki/sources/descriptions/Gingerbeard5773__dino-printer.md
   - wiki/sources/README-categories.md
 updated: 2026-09-06
-confidence: medium
+confidence: high
 ---
 
 # Dino Printer
@@ -21,6 +21,10 @@ confidence: medium
 | Multi-point raytracing | Satisfies server line-of-sight placement checks |
 | Hack rotation | Orients blocks from arbitrary angles |
 | Configurable timing | Placement delay, range, sneak, inventory handling |
+
+## Anti-cheat interaction
+
+Targets anarchy or strict servers where schematic printing must **adapt to** placement validation—line-of-sight raytracing, human-like delays, sneak state, and inventory sequencing—rather than bypass server-side detection outright. Offensive counterpart to scaffold and fast-break checks in plugins such as [[grim]], [[hexze-anticheat]], and [[larping-anti-cheat]]. (source: wiki/sources/descriptions/Gingerbeard5773__dino-printer.md)
 
 ## Links
 
