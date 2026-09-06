@@ -532,6 +532,7 @@ Compiled knowledge catalog for awesome-game-security.
 - [BYOUD](entities/byoud.md) — x64 unwind-metadata stack spoofing framework (klezVirus; Cheat Spoof Stack)
 - [BYOVD Lab](entities/byovd.md) — educational multi-driver AV/EDR kill PoCs (`viragt64.sys`, TfSysMon, ksapi64, BdApiUtil, `wsftprm.sys`; gmh5225)
 - [BYOVD Read Write Primitive](entities/byovd-read-write-primitive.md) — 0xJs educational BYOVD toolkit (C PoCs; IOCTL kernel R/W; PPL/token/ETW/callback/minifilter/DSE modification; offset/symbol resolution; AC/EDR hardening gap study)
+- [BYOVD EDRKiller](entities/byovd-edrkiller.md) — 0xJs educational BYOVD PoC via **`BdApiUtil64.sys`** (C; driver-interface RE; security-process enumeration + repeated termination; red-team defensive-resilience study)
 - [BYOVDFinder](entities/byovdfinder.md) — identify LOLdrivers not blocked by active HVCI policy (BYOVD path research under Memory Integrity; ghostbyt3)
 - [bypassHiddenApiRestriction](entities/bypass-hidden-api-restriction.md) — Android hidden non-SDK API bypass library (Java/Kotlin + JNI/CMake; Android 9–12; startup init; RE / compatibility / security research; WindySha)
 - [BYPASS-PUBG-MOBILE-IMGUI](entities/bypass-pubg-mobile-imgui.md) — PUBG Mobile AC bypass + ImGui menu (C/C++; hooking / memory; cheat / game:pubgm)

@@ -18,4 +18,4 @@ Educational BYOVD toolkit from 0xJs that exposes kernel read and write primitive
 
 ## Related
 
-[[byovd]] · [[kernel-cactus]] · [[edrsandblast]] · [[pplkiller]] · [[dse-pg-bypass]] · [[kernel-callbacks]] · [[etw-threat-intelligence]] · [[patchguard]] · [[overviews/windows-kernel]] · [[overviews/anti-cheat]]
+[[byovd]] · [[byovd-edrkiller]] · [[kernel-cactus]] · [[edrsandblast]] · [[pplkiller]] · [[dse-pg-bypass]] · [[kernel-callbacks]] · [[etw-threat-intelligence]] · [[patchguard]] · [[overviews/windows-kernel]] · [[overviews/anti-cheat]]
