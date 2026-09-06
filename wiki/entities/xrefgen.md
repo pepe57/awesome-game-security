@@ -23,7 +23,7 @@ Targets reverse engineers and malware researchers analyzing modern compiled lang
 - **Cross-architecture register resolution** — x86, x64, ARM, ARM64, MIPS, experimental WebAssembly.
 - **XRefer-compatible export** — validated control-flow candidates with confidence scoring, evidence tracking, and incremental cached re-analysis.
 
-Complements [[find-xrefs]] (materialize missing string/data pointer xrefs) and [[xrefsext]] (extended xref navigation) on large game clients and AC modules.
+Complements [[find-xrefs]] (materialize missing string/data pointer xrefs), [[xrefxpert]] (dockable real-time xref navigation), and [[xrefsext]] (extended xref navigation) on large game clients and AC modules.
 
 ## Links
 
