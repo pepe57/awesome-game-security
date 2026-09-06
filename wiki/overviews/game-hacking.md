@@ -632,6 +632,7 @@ sources:
   - wiki/sources/descriptions/nyx-fuzz__QEMU-Nyx.md
   - wiki/sources/descriptions/ex0dus-0x__fuzzable.md
   - wiki/sources/descriptions/googleprojectzero__winafl.md
+  - wiki/sources/descriptions/0vercl0k__wtf.md
   - wiki/sources/descriptions/ispras__qemu.md
   - wiki/sources/descriptions/sefcom__oxidizer.md
   - wiki/sources/descriptions/pandaadir05__re-architect.md
@@ -2744,6 +2745,7 @@ C++ Unity cheat frameworks such as [[unityresolve-hpp]] (rendering / physics / m
 - Architecture-neutral dynamic analysis via [[panda]] (QEMU-based PANDA; full-machine software emulation without hardware VT) sits in the same QEMU/KVM research / DBI lane. (source: wiki/sources/descriptions/panda-re__panda.md)
 - Intel-PT hypervisor fuzzing via [[qemu-nyx]] (fast memory/device reset, PT decode, breakpoint hooks + fuzzing frontend) also sits in that QEMU/KVM research / DBI lane. (source: wiki/sources/descriptions/nyx-fuzz__QEMU-Nyx.md)
 - Windows coverage-guided fuzzing via [[winafl]] (AFL port; DynamoRIO/Intel PT; persistent mode; closed-source hook + mutate; corpus minimize + crash triage) sits in the Anti Cheat > Fuzzer / DBI research lane. (source: wiki/sources/descriptions/googleprojectzero__winafl.md)
+- Snapshot-based distributed fuzzing via [[wtf]] (0vercl0k; C++; coverage-guided; emulator/VM snapshot execution; user/kernel; corpus + coverage + trace workflows; Windows + experimental Linux; game components, drivers, system services; Anti Cheat > Fuzzer lane) sits beside hypervisor and DBI fuzzers in that research lane. (source: wiki/sources/descriptions/0vercl0k__wtf.md)
 - Fuzz target identification via [[fuzzable]] (C/C++ source + binary integration; viable function targets for harness setup; Anti Cheat > Fuzzer / Binary Ninja plugins lane) sits beside that coverage-guided fuzzing workflow. (source: wiki/sources/descriptions/ex0dus-0x__fuzzable.md)
 - ISP RAS analysis/instrumentation QEMU fork [[ispras-qemu]] (coverage / taint / symbolic-exec support; README `windbg` tree) also sits in that QEMU/KVM research / DBI lane. (source: wiki/sources/descriptions/ispras__qemu.md)
 - Structured QEMU internals documentation via [[qemu-blog]] (Airbus SecLab; machine/device creation, memory regions, interrupts, timers, PCI, execution flow, TCG; Markdown + source refs; cheat / guide) also sits in that QEMU/KVM research-host lane. (source: wiki/sources/descriptions/airbus-seclab__qemu_blog.md)
