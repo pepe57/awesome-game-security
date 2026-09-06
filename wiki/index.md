@@ -829,6 +829,7 @@ Compiled knowledge catalog for awesome-game-security.
 - [CVE-2026-64560 Analysis](entities/cve-2026-64560-analysis.md) — posix-cpu-timers non-leader exec() race UAF trigger PoC (Linux x86_64 + Android GKI arm64; patch verification)
 - [CVE-2026-XNU-AIO-KEVENT-UAF](entities/cve-2026-xnu-aio-kevent-uaf.md) — XNU kern_aio.c AIO+kevent UAF from sandbox app (panic/double-free; iOS 26.2, patched 26.3; crazymind90)
 - [cve-maker](entities/cve-maker.md) — Python CLI: multi-DB CVE/exploit search (keyword/product/CVE ID; severity + links)
+- [CVE2PoC](entities/cve2poc.md) — Python: aggregate public PoCs/exploits for a CVE ID (GitHub, ExploitDB, Nuclei, Metasploit; CVSS/EPSS/CISA KEV; Docker labs, reports; 0liverFlow)
 - [CVEAC-2020](entities/cveac-2020.md) — EAC kernel-module vuln PoC (WDK; Integrity Checks)
 - [custom-data-ptr-swap-sample](entities/custom-data-ptr-swap-sample.md) — NtQueryLicenseValue KM↔UM channel (C++; driver development; cheat / driver communication; gmh5225)
 - [custom-dpapi](entities/custom-dpapi.md) — C++ PoC; undocumented DPAPI RPC via NdrClientCall3 to lsass protected_storage; bypasses CryptUnprotectData; dpapi.dll RE (EvilBytecode)
