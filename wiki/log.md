@@ -4,6 +4,8 @@ Append-only journal of ingest / lint / skill-sync activity.
 
 ---
 
+- **2026-09-06** — ingest `description:0x5abe/vifterpreter`: entity [[vifterpreter]] (0x5abe; Rust library; PS2 VIF1 DMA packet and VIF command parser; binrw + bilge; DMA tags, unpack/MPG/state opcodes; Serde serialization; mesh/graphics asset stream decode in PS2 game binaries; cheat / RE Tools); cited on [[overviews/reverse-engineering]] and [[overviews/game-hacking]]; cross-linked [[ps2-ida-vu-micro]].
+
 - **2026-09-06** — ingest `description:0x6461726B/Hook-Detector`: entity [[hook-detector]] (0x6461726B; Windows usermode inline/IAT hook detector; C++20 DX11/ImGui GUI; module scanner + remote PE parsing + manual PEB traversal; in-memory vs on-disk code compare; x86/x64; anti-cheat developers / game-security RE; Detection:hook); cited on [[overviews/anti-cheat]] and [[overviews/windows-kernel]]; cross-linked [[hookhunter]], [[nt-unhooker]], [[patch-finder]], and [[pe-sieve]].
 
 - **2026-09-06** — ingest `description:0xCD4/SSL-bypass`: entity [[ssl-bypass]] (0xCD4; universal Frida JS script; Android root detection + SSL pinning bypass via Java and native library hooks; no per-app customization; broad Android version support; authorized mobile pentest / RE; cheat / Root Detection & SSL Bypass Script); cited on [[concepts/frida]] and [[overviews/mobile-security]]; cross-linked [[auto-generate-frida-bypass-scripts-for-ssl-pinning-root-detection-on-android-ios]], [[0xdea-frida-scripts]], [[rootraven]], and [[mast-orchestrator]].

@@ -3896,15 +3896,11 @@
     "description:GJR787878/DeviceResetSpoofer": "9f1e053faf42b3d43aa034840f616e51dd4bfbc453611cfde107bf3ff62931f8",
     "description:0xDbgMan/DrvEye": "da725042de01fc0735cc8d1efa69a39374d011c950130e511bdbb195946b43be",
     "description:0xCD4/SSL-bypass": "dee26603bf1754c6770c7aa87cad4b2712869bb424f90cc6aa37b9fcd41902a6",
-    "description:0x6461726B/Hook-Detector": "0353489292928e4a5356eb58ff734c7ae31f16da826e4746852c2465b582065b"
+    "description:0x6461726B/Hook-Detector": "0353489292928e4a5356eb58ff734c7ae31f16da826e4746852c2465b582065b",
+    "description:0x5abe/vifterpreter": "e7cfffd8579f191726d0b95280b229a3977e584d8a0294ce38573be0d68fe4c7"
   },
   "pending": [],
   "ingested": [
-    {
-      "id": "description:GToad/Android_Inline_Hook_ARM64",
-      "kind": "description",
-      "at": "2026-08-25"
-    },
     {
       "id": "description:GLips/Figma-Context-MCP",
       "kind": "description",
@@ -6397,6 +6393,11 @@
     },
     {
       "id": "description:0x6461726B/Hook-Detector",
+      "kind": "description",
+      "at": "2026-09-06"
+    },
+    {
+      "id": "description:0x5abe/vifterpreter",
       "kind": "description",
       "at": "2026-09-06"
     }

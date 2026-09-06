@@ -28,6 +28,7 @@ sources:
   - wiki/sources/descriptions/0xenia__remem.md
   - wiki/sources/descriptions/0xPrimo__KMDllInjector.md
   - wiki/sources/descriptions/0xGREG__registry-callbacks.md
+  - wiki/sources/descriptions/0x5abe__vifterpreter.md
   - wiki/sources/descriptions/0xricksanchez__Shellcoder.md
   - wiki/sources/descriptions/1hAck-0__UE4-Cheat-Source-Code.md
   - wiki/sources/descriptions/kotae4__lab-esp-and-aimbot.md
@@ -1575,6 +1576,7 @@ sources:
   - wiki/sources/descriptions/gmh5225__Genshin-EasyPeasy-Bypass.md
   - wiki/sources/descriptions/gmh5225__GenshinImpact-Base.md
   - wiki/sources/descriptions/gmh5225__Genshin-GenshinData.md
+  - wiki/sources/descriptions/0x5abe__vifterpreter.md
   - wiki/sources/descriptions/Goatman13__ps2_ida_vu_micro.md
   - wiki/sources/descriptions/Goatman13__spu2c.md
   - wiki/sources/descriptions/BoondockSulfur__BS-AntiCheat.md
@@ -2792,6 +2794,7 @@ C++ Unity cheat frameworks such as [[unityresolve-hpp]] (rendering / physics / m
 - PS4 Orbis Ghidra extension via [[ghidra-orbis]] (loaders, analyzers, scripts, syscall/NID mapping; symbol recovery; Java/Gradle; Orbis OS file formats) sits in the same `PlayStation` / Cheat Ghidra Plugins lane beside [[ida-ps4-helper]]. (source: wiki/sources/descriptions/astrelsky__GhidraOrbis.md)
 - PS5 ELF loader/analysis in IDA via [[ida-ps5-elf-plugin]] (PS5-specific ELF extensions, segment types, dynamic linking; game/system binaries; console security RE) sits in the same `PlayStation` / Cheat IDA Plugins lane. (source: wiki/sources/descriptions/gmh5225__ida_ps5_elf_plugin.md)
 - PS2 VU microcode search/disassembly in IDA via [[ps2-ida-vu-micro]] (Goatman13; Python; manual ranges + VIF MPG auto-discovery; vector-unit program RE; branch-target reconstruction limits; cheat / IDA Plugins) sits in the same `PlayStation` static-RE lane for PS2 game binaries. (source: wiki/sources/descriptions/Goatman13__ps2_ida_vu_micro.md)
+- PS2 VIF1 DMA packet parser via [[vifterpreter]] (0x5abe; Rust; models DMA tags and VIF unpack/microprogram-load/state commands; Serde serialization; decode mesh/graphics asset streams in PS2 game binaries; cheat / RE Tools) sits in that `PlayStation` static-RE lane beside [[ps2-ida-vu-micro]]. (source: wiki/sources/descriptions/0x5abe__vifterpreter.md)
 - PS3 SPU opcode annotation in IDA via [[spu2c]] (Goatman13; Python; C-style per-instruction comments; vector lane sizes + shuffle-byte mask resolution; instruction/selection/function scan shortcuts; PS3 SPU firmware/library/anti-cheat RE; cheat / IDA Plugins) extends that lane to PS3 SPU binaries. (source: wiki/sources/descriptions/Goatman13__spu2c.md)
 - PS5 ELF loader for ps5-jar-loader via [[elfloader]] (Java; kernel-level modding / SDK generation; console PlayStation ELF load path; Anti Cheat → Binary Packer) sits in the same `PlayStation` lane beside static IDA loaders. (source: wiki/sources/descriptions/cryonumb__elfloader.md)
 - PS5 Cortex-A53 code-execution PoC via [[a53-code-exec]] (fw 02.00; kernel-level work / SDK generation; console emulator + PlayStation research) sits in the same `PlayStation` low-level CPU exploit lane. (source: wiki/sources/descriptions/cragson__a53-code-exec.md)
