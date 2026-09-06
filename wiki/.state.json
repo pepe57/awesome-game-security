@@ -3888,15 +3888,11 @@
     "description:0xbigshaq/apatchy": "1cd5008b91f21274f8d8f918dd44041ea16ce770dfdcc630511ba3ef1e379451",
     "description:0xTriboulet/T-1": "c58de635bb7aec3b8eac2fcd9b1cca2c546b7bb7a8c2a5d0961abe11b69795bf",
     "description:0xPrimo/KMDllInjector": "2f4cd52a9fe90b95ba601786482df7ecd8ca3d69a3cc9461266d5d644fc3e703",
-    "description:0xMohammedHassan/morphkatz": "d2418fd6375783db8b49b625a442103d89bca835624b6dc2235e14efca758941"
+    "description:0xMohammedHassan/morphkatz": "d2418fd6375783db8b49b625a442103d89bca835624b6dc2235e14efca758941",
+    "description:0xJs/BYOVD_read_write_primitive": "9c72b25bb1a89c2ba3bd97479f2f14c72939e55444bbd27bff7c2971601dabb7"
   },
   "pending": [],
   "ingested": [
-    {
-      "id": "description:Genymobile/scrcpy",
-      "kind": "description",
-      "at": "2026-08-25"
-    },
     {
       "id": "description:Genymobile/genymotion-kernel",
       "kind": "description",
@@ -6389,6 +6385,11 @@
     },
     {
       "id": "description:0xMohammedHassan/morphkatz",
+      "kind": "description",
+      "at": "2026-09-06"
+    },
+    {
+      "id": "description:0xJs/BYOVD_read_write_primitive",
       "kind": "description",
       "at": "2026-09-06"
     }
