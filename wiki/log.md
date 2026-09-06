@@ -4,6 +4,8 @@ Append-only journal of ingest / lint / skill-sync activity.
 
 ---
 
+- **2026-09-06** — ingest `description:0xcpu/WinAltSyscallHandler`: entity [[win-alt-syscall-handler]] (0xcpu; C kernel PoC; alternate system call handler mechanics—registration limits, dispatch conditions, thread debug flags, trap-frame/process-info experiments; syscall interception stability research; README AltSystemCallHandlers); cited on [[overviews/windows-kernel]] and [[overviews/anti-cheat]]; cross-linked [[callmon]], [[etw-syscall-monitor]], [[instrumentation-callback-syscall-logger]], and [[infinityhook]].
+
 - **2026-09-06** — ingest `description:0xdea/augur`: entity [[augur]] (0xdea; Rust idalib headless IDA plugin; extracts strings and related Hex-Rays pseudocode; per-string directories map to decompiled referencing functions; fast static analysis pipelines; cheat / IDA Plugins; slug disambiguated from [[augur-riot]]); cited on [[overviews/reverse-engineering]]; cross-linked [[rhabdomancer]], [[headless-ida]], [[anti-xorstr]], [[auto-re]], and [[hashdb-ida]].
 
 - **2026-09-06** — ingest `description:0xdea/frida-scripts`: entity [[0xdea-frida-scripts]] (0xdea; Frida JS instrumentation scripts; iOS/Android/Linux tracing and enumeration helpers; method tracing, class discovery, bypass-oriented snippets; dynamic runtime analysis; cheat / Frida; slug disambiguated from [[frida-scripts]]); cited on [[concepts/frida]] and [[overviews/reverse-engineering]]; cross-linked [[frida-scripts]], [[frida-android-hook]], and [[frida-watchpoint-tutorial]].

@@ -2284,6 +2284,7 @@ Compiled knowledge catalog for awesome-game-security.
 - [MapleStory GM Client](entities/maplestory-gm-client.md) — MapleStory GM/admin client (map editing / NPC spawn / item creation / GM commands; private-server administration; Offline MapleStory Client Emulator / game:maplestory; gmh5225)
 - [MapleStory Server (HeavenMS)](entities/maplestory-server.md) — MapleStory private-server emulator (HeavenMS Server; player auth / character progression / quest / party / world simulation; HeavenMS Server / game:maplestory; gmh5225)
 - [WzComparerR2](entities/wzcomparerr2.md) — MapleStory online WZ extractor/viewer (C#/Lua; rendering/graphics/networking; cheat / game:maplestory; gmh5225)
+- [WinAltSyscallHandler](entities/win-alt-syscall-handler.md) — Windows kernel PoC exploring alternate system call handler mechanics (0xcpu; C; PsAltSystemCallHandlers registration limits, dispatch conditions, thread debug flags, trap-frame/process-info experiments; syscall interception stability research; AltSystemCallHandlers)
 - [WinAPI MapleStory](entities/winapi-maplestory.md) — WinAPI MapleStory client (C/C++; rendering/animation/asset pipelines; Game Develop / source / game:maplestory; gmh5225)
 - [MapleStoryEx](entities/maplestoryex.md) — MapleStory private server (CMS-079; custom content / server logic)
 - [MapleEzorsia](entities/maple-ezorsia.md) — MapleStory v83 private server (Java; login/map/quest + custom resolution client; Private Server / game:maplestory)
