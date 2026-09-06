@@ -4,6 +4,8 @@ Append-only journal of ingest / lint / skill-sync activity.
 
 ---
 
+- **2026-09-06** — ingest `readme:categories`: Cheat ~2788 (+1; GJR787878/[[device-reset-spoofer]] LSPosed post-clear Android ID/GAID/IMEI/MAC/GSF ID auto-regeneration in Cheat > Xposed) / Anti Cheat ~708 / other major section counts stable; 41 sections; entity [[device-reset-spoofer]]; refreshed README-map counts and scope on [[overviews/overview]], [[overviews/game-hacking]], [[overviews/mobile-security]], [[overviews/reverse-engineering]], and [[overviews/dma-attack]]; light `index.md` section notes (no per-category pages).
+
 - **2026-09-06** — ingest `description:0xGREG/registry-callbacks`: entity [[registry-callbacks]] (0xGREG; C/C++ kernel + user-mode PoC; registry-callback comm via jump gadget in legitimate module for manually mapped driver command delivery; virtual/protected memory R/W, process-base lookup, heartbeat; kernel communication / AC evasion research; README `[Registry Callback]`); cited on [[overviews/windows-kernel]] and [[overviews/game-hacking]]; cross-linked [[common-registry-jmp-rcx]], [[common-registry]], [[boundcallback]], [[evcommunication]], and [[km-um-communication]].
 
 - **2026-09-06** — ingest `description:0xGotcha/XrefXpert`: entity [[xrefxpert]] (0xGotcha; Python/PyQt IDA Pro plugin; dockable real-time function xref viewer; click-to-jump + hotkey navigation; filters for immediates, parameter counts, and binary signatures; game binary / vulnerability RE; cheat / IDA Plugins); cited on [[overviews/reverse-engineering]] and [[overviews/game-hacking]]; cross-linked [[find-xrefs]], [[xrefgen]], and [[xrefsext]].
