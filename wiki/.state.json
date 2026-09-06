@@ -3893,15 +3893,11 @@
     "description:0xJs/BYOVD_EDRKiller": "17874dbc5fbad5116cb2cb7b0ef8eff2cc0bbfa3e20924320e520b8305b6493a",
     "description:0xGotcha/XrefXpert": "971bc274981441c3e8d6d75a8b0b0eab7dca0172b5837bb10a9c72f138242233",
     "description:0xGREG/registry-callbacks": "6e7c81602f2435d94e78acd841134b01afdeead4d300c2b79181b029ad424344",
-    "description:GJR787878/DeviceResetSpoofer": "9f1e053faf42b3d43aa034840f616e51dd4bfbc453611cfde107bf3ff62931f8"
+    "description:GJR787878/DeviceResetSpoofer": "9f1e053faf42b3d43aa034840f616e51dd4bfbc453611cfde107bf3ff62931f8",
+    "description:0xDbgMan/DrvEye": "da725042de01fc0735cc8d1efa69a39374d011c950130e511bdbb195946b43be"
   },
   "pending": [],
   "ingested": [
-    {
-      "id": "description:GameDevGrzesiek/OptimizationBible",
-      "kind": "description",
-      "at": "2026-08-25"
-    },
     {
       "id": "description:GameCrashProject/UE4-Hacking-Guideline",
       "kind": "description",
@@ -6394,6 +6390,11 @@
     },
     {
       "id": "description:GJR787878/DeviceResetSpoofer",
+      "kind": "description",
+      "at": "2026-09-06"
+    },
+    {
+      "id": "description:0xDbgMan/DrvEye",
       "kind": "description",
       "at": "2026-09-06"
     }

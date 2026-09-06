@@ -1037,6 +1037,7 @@ Compiled knowledge catalog for awesome-game-security.
 - [droidrun](entities/droidrun.md) — Python LLM agent framework for Android/iOS device control (ADB + accessibility APIs; multi-provider; scripter agents; MCP for Android; mobile security testing / QA automation)
 - [droidvm](entities/droidvm.md) — Android on-device VM manager (Snapdragon Gunyah + QEMU/KVM/crosvm; ARM64/x86_64 guests; UEFI Linux/Windows; VirGL/GfxStream GPU, VNC, VirtFS; root required; Android Emulator)
 - [Drv Hide And Camouflage](entities/drv-hide-and-camouflage.md) — unsigned driver load + identity camouflage via unexported kernel routines, manual offset init, object/import-table manipulation (IcEy-999; C ring-0; Hide Driver)
+- [DrvEye](entities/drveye.md) — 0xDbgMan Windows kernel driver static analysis and bug hunting (IOCTL dispatch recovery, taint analysis, emulation-based handler tracing, certificate verification, YARA, PoC generation; discover IOCTLs, symbolic links, certificate checks; exploitation triage)
 - [drvtrace](entities/drvtrace.md) — Windows kernel IRP filter tracer (major/minor codes, buffers, completion status; IOCTL/device-protocol RE; eversinc33)
 - [drvscan (ekknod)](entities/drvscan.md) — Windows DMA/PCIe device scanner and memory forensics (C; PCIe enumeration, pcileech-style acquisition, cheat/rootkit signature scans; Anti Cheat / Detection:DMA [Scanner])
 - [Dr. Memory](entities/drmemory.md) — DynamoRIO dynamic memory debugger (UAF, OOB, leaks, uninitialized reads; Windows handle/GDI checks; unmodified binaries; game/anti-cheat reliability testing)
