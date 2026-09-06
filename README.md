@@ -1303,6 +1303,7 @@ npx skills add https://github.com/gmh5225/awesome-game-security --skill reverse-
 - https://github.com/wchunlin1006/LocusMimic [LSPosed/Xposed Android GPS spoof module with map picker, saved locations, and app/system/mock-provider modes]
 - https://github.com/cxOrz/AnyWhere [Android mock-location app with map picker, joystick movement, and LSPosed module to hide mock-provider detection]
 - https://github.com/xposed-modules-repo/com.wowsoftware.hidemyandroid [LSPosed/Xposed anti-detect module for profile-based device identifier and environment spoofing (Android ID, GAID, IMEI, SIM, root/LSPosed/VPN hiding)]
+- https://github.com/GJR787878/DeviceResetSpoofer [LSPosed module that auto-generates a new Android device identity after clearing app data (Android ID, GAID, IMEI, MAC, GSF ID hooks)]
 - https://github.com/salvogiangri/KnoxPatch [LSPosed module to restore Samsung Knox-gated apps and features on rooted Galaxy devices]
 
 > Frida
