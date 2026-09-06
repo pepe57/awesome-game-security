@@ -4,6 +4,8 @@ Append-only journal of ingest / lint / skill-sync activity.
 
 ---
 
+- **2026-09-06** — ingest `description:0xbigshaq/apatchy`: entity [[apatchy]] (0xbigshaq; Python Apache HTTPD fuzzing framework; custom I/O filters replace socket layer; raw-byte injection into real request-pipeline code paths; CVE reproducers + Apache internals docs—memory pools, hooks, filters, buckets; server-side HTTP parsing attack-surface research); cited on [[overviews/reverse-engineering]]; cross-linked [[winafl]], [[fuzzable]], and [[vfdynf]].
+
 - **2026-09-06** — ingest `description:0xbinder/android-kernel-exploitation-lab`: entity [[android-kernel-exploitation-lab]] (0xbinder; practical lab reproducing Android Binder UAF CVE-2019-2215; env setup, kernel source prep/patching, emulator guidance, privesc analysis, GDB/syzkaller/AFL++ fuzzing; mobile kernel security training; cheat / CVE-2019-2215); cited on [[overviews/mobile-security]]; cross-linked [[android-kernel-exploitation]], [[cve-2019-2215]], [[android-kernel-cve-pocs]], and [[android-security-wizard]].
 
 - **2026-09-06** — ingest `description:Gingerbeard5773/dino-printer`: entity [[dino-printer]] (Gingerbeard5773; Java Fabric Meteor Client addon; Litematica schematic auto-build; BlockState matching for stairs/slabs/rotatable blocks; multi-point raytracing for line-of-sight servers; hack rotation; configurable delay/range/sneak/inventory; built from scratch; adapts to anti-cheat placement rules on strict/anarchy servers; cheat / game:minecraft); cited on [[overviews/anti-cheat]] and [[overviews/game-hacking]]; cross-linked [[grim]], [[hexze-anticheat]], [[larping-anti-cheat]], [[lenrete-mod]], and [[omniclutch]].

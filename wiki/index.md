@@ -386,6 +386,7 @@ Compiled knowledge catalog for awesome-game-security.
 - [apktoolgui](entities/apktoolgui.md) — Windows GUI for apktool, signapk, zipalign, baksmali (C#/.NET; drag-and-drop APK workflows; `[Apk]`)
 - [apklab](entities/apklab.md) — VS Code Android RE workbench (Apktool, JADX, signing, HTTPS patch; decode/rebuild/sign/install; TypeScript; cross-platform; APKLab; `[Apk]`)
 - [app-manager](entities/app-manager.md) — Full-featured Android package manager and viewer (component/permission/app-op control, APK analysis/sign/edit, backup, logcat, tracker scan; root/ADB; MuntashirAkon; Cheat Android File Explorer)
+- [Apatchy](entities/apatchy.md) — Apache HTTPD fuzzing framework (Python; custom I/O filters replace socket layer; raw-byte injection into real request pipeline; CVE reproducers + Apache internals docs; server-side HTTP parsing attack-surface research; 0xbigshaq)
 - [ApplistDetector](entities/applist-detector.md) — Android detection library + demo (Kotlin + native C++; package/FS/syscall/Xposed/work-profile probes; Magisk/root env; Dr-TSNG; mobile anti-cheat / root-detection research)
 - [ApplyCalleeTypeEx](entities/apply-callee-type-ex.md) — IDA Pro plugin: apply function prototype to indirect CALL sites (Dump-GUY; Python; enhanced callee type propagation; IDA 8.x–9.3+; cheat / IDA Plugins)
 - [apppealing-new](entities/apppealing-new.md) — Android LSPosed Xposed module; disables Inka AppSealing; root/cheat-detection bypass + decrypted-DEX dump; Java hooks + native Dobby; Magisk workflow (NPC2000; mobile AC / packer RE)
