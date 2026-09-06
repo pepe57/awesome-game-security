@@ -1693,6 +1693,7 @@ Compiled knowledge catalog for awesome-game-security.
 - [ept-hook-detection](entities/ept-hook-detection.md) — usermode EPT hook detector (timing / write-compare / cross-core consistency; Detect EPT)
 - [ermsb-meme](entities/ermsb-meme.md) — REP MOV / ERMSB side-channel EPT hook detector (C; everdox; Detection: Hacked Hypervisor)
 - [rep-mov-ept-detecc](entities/rep-mov-ept-detecc.md) — REP MOVS fault-pattern EPT hook/access monitor detector (Windows C++; JustasMasiulis; overwrite-pattern signal + exception handling; REP MOV based EPT detection)
+- [rhabdomancer](entities/rhabdomancer.md) — Rust idalib headless IDA plugin; locates insecure API calls (strcpy/sprintf/system/ioctl); tiered badness, bookmarks, backtrace audit paths; binary vulnerability triage (0xdea; cheat / IDA Plugins)
 - [vmdtstr](entities/vmdtstr.md) — STR-exit VMM fault detector (cryotb; nested HVPP test harness; Detection: Hacked Hypervisor)
 - [honor-of-kings-RE-research](entities/honor-of-kings-re-research.md) — Honor of Kings Android RE (ACE / libtersafe / IL2CPP / KernelPatch KPMs)
 - [Hotkeybased Keylogger Detector](entities/hotkeybased-keylogger-detector.md) — win32kfull global hotkey-table scanner; detects keyloggers abusing RegisterHotKey (AsuNa-jp; KMDF; defensive endpoint research; Detect RegisterHotKey API)

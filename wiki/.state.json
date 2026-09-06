@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-09-05",
+  "last_run": "2026-09-06",
   "last_mode": "ingest",
   "source_hashes": {
     "readme:categories": "567b44e888cfaf343db138c808cf340997d394b0b8b7aac3f05d4160b0ca92b3",
@@ -3877,15 +3877,11 @@
     "description:0xf1a/DSMM": "5c03748b7c85f0cd0da238e850514e0196a69d62ba4c2b03db2f44b6b5b8dbdf",
     "description:0xenia/remem": "85a4c002508622eda5c237be4091f5e0ff8a536872ec6e195792ec67599b7510",
     "description:0xeb/windbg-copilot": "47e8babe77fcab2d7529b2ef96e3fc7458a8829e24587521ef9843bcb080c9d1",
-    "description:0xeb/libghidra": "98a632357450eaf098cc2de6cdf4030e3d4e88b355460ea14d13cd8b3e87903b"
+    "description:0xeb/libghidra": "98a632357450eaf098cc2de6cdf4030e3d4e88b355460ea14d13cd8b3e87903b",
+    "description:0xdea/rhabdomancer": "eb510f48a91f7afd89a0c7d10186c7fb0541af7c8e8dc20f461f0bc542fb168a"
   },
   "pending": [],
   "ingested": [
-    {
-      "id": "description:GlacierW/MBA",
-      "kind": "description",
-      "at": "2026-08-25"
-    },
     {
       "id": "description:Gitex68/Katapult-AntiCheat",
       "kind": "description",
@@ -6380,6 +6376,11 @@
       "id": "description:0xeb/libghidra",
       "kind": "description",
       "at": "2026-09-05"
+    },
+    {
+      "id": "description:0xdea/rhabdomancer",
+      "kind": "description",
+      "at": "2026-09-06"
     }
   ],
   "failed_retry": []
