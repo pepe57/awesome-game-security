@@ -841,6 +841,7 @@ Compiled knowledge catalog for awesome-game-security.
 - [data-communication](entities/data-communication.md) — kernel `.data` pointer swap KM↔UM comms (Sinclairq; C++ driver + usermode; pattern scan; memory R/W + process base; README [NtCompareSigningLevels])
 - [double-data-pointer](entities/double-data-pointer.md) — double-pointer KM↔UM channel for manually mapped driver; virtual/physical R/W; PFN + pool artifact cleanup (Astronaut00; C++; cheat / driver communication)
 - [data-ptr-swap](entities/data-ptr-swap.md) — NtSetCompositionSurfaceAnalogExclusive kernel channel (C/C++)
+- [DataptrHooks](entities/dataptrhooks.md) — `.data` pointer-hook kernel PoC on NtConvertBetweenAuxiliaryCounterAndPerformanceCounter; CFG call-site notes (0mWindyBug; driver communication)
 - [dataptrswap-driver](entities/dataptrswap-driver.md) — win32kbase data-ptr swap on NtSetCompositionSurfaceAnalogExclusive; MmUnloadedDrivers cleanup (gmh5225; cheat driver)
 - [DataPtrHookWin11](entities/dataptrhookwin11.md) — NtUserSetGestureConfig Win11 data-ptr hook (driver communication)
 - [d-process](entities/d-process.md) — Linux decoy process generator (on-demand C compile + nohup; arbitrary process names; anti-cheat / tracker enumeration research)
