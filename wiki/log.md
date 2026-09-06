@@ -4,6 +4,8 @@ Append-only journal of ingest / lint / skill-sync activity.
 
 ---
 
+- **2026-09-06** — ingest `readme:categories`: Cheat ~2787 (+1; Gingerbeard5773/[[dino-printer]] Meteor Client Litematica schematic printer with anti-cheat-aware placement in game:minecraft) / Anti Cheat ~708 / other major section counts stable; 41 sections; entity [[dino-printer]]; refreshed README-map counts and scope on [[overviews/overview]], [[overviews/game-hacking]], [[overviews/reverse-engineering]], and [[overviews/dma-attack]]; light `index.md` section notes (no per-category pages).
+
 - **2026-09-06** — ingest `description:0xcpu/ExecutiveCallbackObjects`: entity [[executive-callback-objects]] (0xcpu; C kernel PoCs + notes; executive callback object registration/inspection across networking, system state, boot, and security families; Windows internals / telemetry visibility / AC+EDR analysis; README Callback); cited on [[overviews/windows-kernel]] and [[overviews/anti-cheat]]; cross-linked [[kernel-callbacks]], [[kernel-callback-functions-list]], [[win-alt-syscall-handler]], [[callmon]], [[openark]], and [[bustercall]].
 
 - **2026-09-06** — ingest `description:0xcpu/WinAltSyscallHandler`: entity [[win-alt-syscall-handler]] (0xcpu; C kernel PoC; alternate system call handler mechanics—registration limits, dispatch conditions, thread debug flags, trap-frame/process-info experiments; syscall interception stability research; README AltSystemCallHandlers); cited on [[overviews/windows-kernel]] and [[overviews/anti-cheat]]; cross-linked [[callmon]], [[etw-syscall-monitor]], [[instrumentation-callback-syscall-logger]], and [[infinityhook]].

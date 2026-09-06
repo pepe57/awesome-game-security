@@ -3,7 +3,7 @@
   "last_run": "2026-09-06",
   "last_mode": "ingest",
   "source_hashes": {
-    "readme:categories": "567b44e888cfaf343db138c808cf340997d394b0b8b7aac3f05d4160b0ca92b3",
+    "readme:categories": "5a60c4245aa0621aea736e556e08b69fc34ad774eb3a352e097dbf8ceaa92364",
     "skill:overview": "3a8587ec8ac0003ecdae7d1b0ad242cc7278043d0bea8556b78a71fe1178dbcc",
     "skill:anti-cheat": "9a1a2c1de76aefa10953b6c34594d0852309e80e693b1a221130a36b8e468bc4",
     "skill:dma-attack": "4c6f8ee00a516d47af9a3d4de6d2f28a5668bb600d846871e13451381b4c0265",
@@ -3887,11 +3887,6 @@
   "pending": [],
   "ingested": [
     {
-      "id": "description:Gforcex/OpenGraphic",
-      "kind": "description",
-      "at": "2026-08-25"
-    },
-    {
       "id": "description:Gezine/BD-UN-JB",
       "kind": "description",
       "at": "2026-08-25"
@@ -6384,6 +6379,11 @@
     {
       "id": "description:0xcpu/ExecutiveCallbackObjects",
       "kind": "description",
+      "at": "2026-09-06"
+    },
+    {
+      "id": "readme:categories",
+      "kind": "readme",
       "at": "2026-09-06"
     }
   ],
