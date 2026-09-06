@@ -3897,6 +3897,7 @@ Compiled knowledge catalog for awesome-game-security.
 - [YCBR AntiCheat](entities/ycbr-anticheat.md) — Paper 1.8.9 Minecraft AC plugin (Java 8 Maven; ProtocolLib; 19 combat/movement/protocol checks; Grim-style prediction; auth, DDoS guard, admin GUI; YcbrYL1; Anti Cheat / game:minecraft)
 - [YimMenu](entities/yimmenu.md) — GTA menu-ecosystem Lua API/command docs (documentation-only after source removal; LibreTranslate chat-translation setup; script developers; YimMenu)
 - [Yumekage](entities/yumekage.md) — hidden/shadowed memory region PoC (C++; guarded-region + context-switch semantics; PTE Hook; anti-cheat bypass RE; Xyrem)
+- [yummyPaste](entities/yummy-paste.md) — x64dbg plugin: paste formatted byte blocks into memory views (C++; C-style arrays, escaped shellcode, comma/space-separated decimals; disassembler/dump patching; 0ffffffffh; Cheat x64dbg Plugins)
 - [Yuri](entities/yuri.md) — Minecraft 1.8.9 MCP Java hack client (Gradle; bundled Java 8 + full assets; Watchdog/Polar/Grim bypass modules; unleg1t; cheat / game:minecraft)
 - [yuzu-android](entities/yuzu-android.md) — yuzu Switch emulator Android port (ARM64 JIT; Vulkan/OpenGL; Nintendo Switch lane)
 - [yuzu-archive](entities/yuzu-archive.md) — yuzu DMCA/takedown placeholder archive (Logboy2000; documentation + DMCA notice record; no emulator source; Nintendo Switch enforcement reference)
