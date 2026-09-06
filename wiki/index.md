@@ -2037,6 +2037,7 @@ Compiled knowledge catalog for awesome-game-security.
 - [kuna](entities/kuna.md) — agent-first Rust Ghidra decompiler (CLI, WASM, Ghidra plugin; SLEIGH port; tunable phase pipeline for LLM agents; Noelo-Lab)
 - [KittyMemory](entities/kittymemory.md) — cross-platform Android/iOS runtime memory patching library (C++; memory scan, pointer validation, Keystone assembly patches, prebuilt binaries; mobile game RE; MJx0; cheat / [Runtime code patching])
 - [KmdfMandelcheck](entities/kmdfmandelcheck.md) — AnalogFeelings; compact KMDF kernel driver; renders bitmap on BSOD via modified BOOTVID interface; minimal crash-time display / boot-video graphics research; cheat / [BSOD]
+- [KMDllInjector](entities/kmdllinjector.md) — 0xPrimo; C++ kernel-mode DLL injection framework; early-startup targeting; process/image-load callback triggering; ntdll loader hooks with PIC shellcode; kernel APC path; controlled process-injection research; kernel-mode DLL Injector
 - [kittymemory-ios](entities/kittymemory-ios.md) — iOS runtime memory library (patch/hook/pattern scan; jailbreak-independent code patching; cheat / iOS memory explorer; gmh5225)
 - [kiero](entities/kiero.md) — universal Windows D3D9–12/GL/Vulkan graphics hooking library (MinHook method-table detours; sample ImGui overlays; x86/x64; Rebzzel)
 - [kiero2](entities/kiero2.md) — kiero v2 runtime D3D9–12/GL/Vulkan API locator (BYO hooking; CMake FetchContent; cross-platform GL/VK)

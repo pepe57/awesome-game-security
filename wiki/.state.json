@@ -3886,15 +3886,11 @@
     "description:Gingerbeard5773/dino-printer": "54b4171c911a91322676bfce49ac2d88b3866a5056531294939405fbf6765968",
     "description:0xbinder/android-kernel-exploitation-lab": "69c57de2a6e116e92417a2912f0a19b4393aeb1ff6e1789eecf9fbceffdfd12b",
     "description:0xbigshaq/apatchy": "1cd5008b91f21274f8d8f918dd44041ea16ce770dfdcc630511ba3ef1e379451",
-    "description:0xTriboulet/T-1": "c58de635bb7aec3b8eac2fcd9b1cca2c546b7bb7a8c2a5d0961abe11b69795bf"
+    "description:0xTriboulet/T-1": "c58de635bb7aec3b8eac2fcd9b1cca2c546b7bb7a8c2a5d0961abe11b69795bf",
+    "description:0xPrimo/KMDllInjector": "2f4cd52a9fe90b95ba601786482df7ecd8ca3d69a3cc9461266d5d644fc3e703"
   },
   "pending": [],
   "ingested": [
-    {
-      "id": "description:damanoreshkan-beep/rtl8852au-userspace",
-      "kind": "description",
-      "at": "2026-08-25"
-    },
     {
       "id": "description:GetRektBoy724/DCMB",
       "kind": "description",
@@ -6387,6 +6383,11 @@
     },
     {
       "id": "description:0xTriboulet/T-1",
+      "kind": "description",
+      "at": "2026-09-06"
+    },
+    {
+      "id": "description:0xPrimo/KMDllInjector",
       "kind": "description",
       "at": "2026-09-06"
     }
