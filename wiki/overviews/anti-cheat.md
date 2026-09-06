@@ -626,6 +626,7 @@ sources:
   - wiki/sources/descriptions/keowu__Ryujin.md
   - wiki/sources/descriptions/nelfo__Milfuscator.md
   - wiki/sources/descriptions/noahware__apic.md
+  - wiki/sources/descriptions/noahware__armcall.md
   - wiki/sources/descriptions/venkata-ram__DroidShield.md
   - wiki/sources/descriptions/talsec__Free-RASP-Community.md
   - wiki/sources/descriptions/talsec__Free-RASP-Unity-POC.md
@@ -1081,6 +1082,7 @@ Structured research indexes such as [[anti-cheat-research-index]] catalog public
 - [[badlion-logger]] — KiFilterFiberContext PoC kernel logger for black-box AC driver observation (IAT hooks on image-load callbacks; VMProtect-virtualized target module; C++; driver-level monitoring research) (source: wiki/sources/descriptions/KiFilterFiberContext__BadlionLogger.md)
 - [[kn-win32-api-monitor]] — Tauri 2 Win32 API trace workstation (IAT hooks; ~30k APIs; `.knapm` replay; security/RE/anti-cheat research; kernullist) (source: wiki/sources/descriptions/kernullist__KnWin32ApiMonitor.md)
 - [[syscall-detect]] — C PoC detecting direct/indirect syscalls via Instrumentation Callback or thread stack inspection (flags custom stubs vs ntdll) (source: wiki/sources/descriptions/jackullrich__syscall-detect.md); internal CS2 research frameworks such as [[rabsztyncc-cs2-internal]] (BrufelFX; direct NT syscalls + PE header wipe + signature busting + thread hiding + optional kernel shared-memory IPC; cheat / game:cs2 [Internal]) and hybrid suites such as [[projectnexus-csgo]] (Atonl200; manual-map loader via direct syscalls + optional [[byovd]] / kernel driver / PE mapper; shared-memory IPC to external overlay; cheat / game:cs2 [Internal]) illustrate the same usermode evasion surface AC must instrument beside [[modfinder]] PE-header heuristics. (source: wiki/sources/descriptions/BrufelFX__RabsztynCC-CS2-Internal.md) (source: wiki/sources/descriptions/Atonl200__ProjectNexus-CSGO.md)
+- [[armcall]] — header-only C++20 ARM64 Windows direct syscall library (noahware; ntdll export parse + SVC immediate extraction; dynamic executable stubs bypass hooked user-mode APIs; AC_SYSCALL macros; WoA game security / AC evasion / low-level RE) (source: wiki/sources/descriptions/noahware__armcall.md)
 - [[nt-unhooker]] — Rust NTDLL inline/IAT hook detect + restore vs clean reference image (PE parse; symbol-based clean DLL; CLI + library; defender / malware-analysis hook-tampering study) (source: wiki/sources/descriptions/Teach2Breach__nt_unhooker.md)
 - [[hook-detector]] — Windows usermode inline/IAT hook detector (0x6461726B; C++20 DX11/ImGui GUI; module scan + remote PE parse + manual PEB traversal; in-memory vs on-disk code compare; x86/x64; anti-cheat dev / game-security RE; Detection:hook) (source: wiki/sources/descriptions/0x6461726B__Hook-Detector.md)
 - [[known-dll-unhook]] — KnownDlls-backed `.text` restore for loaded modules (map clean `\KnownDlls` copies; native syscalls; EDR/AC hook detection & evasion research; ORCx41) (source: wiki/sources/descriptions/ORCx41__KnownDllUnhook.md)
