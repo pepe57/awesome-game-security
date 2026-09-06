@@ -4,6 +4,8 @@ Append-only journal of ingest / lint / skill-sync activity.
 
 ---
 
+- **2026-09-06** — ingest `description:0x0funky/agent-sprite-forge`: entity [[agent-sprite-forge]] (0x0funky; Codex skills; AI imagegen for game-ready 2D sprites and layered maps; local post-processing clean/split/validate/export pipelines; Godot/Unity/raw 2D workflows; Game Develop / AI Agents); cited on [[overviews/game-engine]] and [[overviews/overview]]; cross-linked [[image-cockpit-for-codex-workflows]], [[sprite-sheet-creator]], [[3d-asset-factory]], [[image-blaster]], and [[awesome-gamedev-agent-skills]].
+
 - **2026-09-06** — ingest `description:0x36/Pixel_GPU_Exploit`: entity [[pixel-gpu-exploit]] (0x36; C/C++; Mali GPU kernel vulnerability chain; integer-overflow logic flaws + info leak → arbitrary kernel memory R/W; SELinux disablement + root; Pixel 7/8 Pro Android 14; mobile kernel/GPU attack-surface research; cheat / Root for Pixel7/8 Pro with Android 14); cited on [[overviews/mobile-security]] and [[overviews/reverse-engineering]]; cross-linked [[weightbufs]], [[android-kernel-exploitation-lab]], [[android-kernel-exploitation]], [[bad-io-uring]], and [[android-kernel-cve-pocs]].
 
 - **2026-09-06** — ingest `description:0x36/weightBufs`: entity [[weightbufs]] (0x36; Objective-C/C; multi-stage ANE-component kernel R/W exploit chain on Neural-Engine Apple devices; IOKit/IOSurface helpers; iOS 15 + macOS 12; tested device ranges and reliability notes; XNU multi-stage exploitation study; cheat / iOS jailbreak); cited on [[overviews/mobile-security]] and [[overviews/reverse-engineering]]; cross-linked [[xnu-1day-practice]], [[momentarius]], [[kfd]], and [[kfd-explorer]].
