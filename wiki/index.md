@@ -1251,6 +1251,7 @@ Compiled knowledge catalog for awesome-game-security.
 - [event_replay](entities/event-replay.md) — Android `/dev/input` touch/key record-replay Magisk module (game input sim)
 - [EWS (Emulator Wrapper Solution)](entities/ews.md) — IDA Pro Unicorn emulation plugin (ARM/x86/x64; Keystone/Capstone trace + asm/disasm; embedded/Android/automotive firmware; cheat / Emulation)
 - [Execution Trace Viewer](entities/execution-trace-viewer.md) — view/edit/analyze execution traces (obfuscated-code RE; cheat / debugging)
+- [ExecutiveCallbackObjects](entities/executive-callback-objects.md) — Windows executive callback object research collection (0xcpu; C kernel PoCs + notes; register/inspect/analyze callback activity across networking, system state, boot, and security families; telemetry visibility / AC+EDR analysis; README Callback)
 - [Exception-Ret-Spoofing](entities/exception-ret-spoofing.md) — x64 return-address spoofing via exception-handler flow (Peribunt; C++ PoC; gadget-chained spoofed call paths; calling-convention reliability/performance tradeoffs; anti-cheat evasion / control-flow research; Cheat Spoof Stack)
 - [ExpoMon](entities/expomon.md) — x64dbg Qt GUI: live DLL export-table monitor (names/ordinals/addresses; Cheat x64dbg Plugins / Exports monitoring)
 - [exengine](entities/exengine.md) — minimal C99 OpenGL 3D engine (IQM / lighting / scene; Game Engine source)

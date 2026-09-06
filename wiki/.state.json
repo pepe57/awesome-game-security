@@ -3881,15 +3881,11 @@
     "description:0xdea/rhabdomancer": "eb510f48a91f7afd89a0c7d10186c7fb0541af7c8e8dc20f461f0bc542fb168a",
     "description:0xdea/frida-scripts": "802da3adf896252e05a5ef4039a0f59845c243c394a562f63a74819d053d7242",
     "description:0xdea/augur": "60083996f392cb3d8050e6ea5b073724e07d8ef0f2200a4c3c7463ffdef6d17b",
-    "description:0xcpu/WinAltSyscallHandler": "866ec4332670eb0223de765cfb89b0ec1042301525dee5256e1b694743c0ca43"
+    "description:0xcpu/WinAltSyscallHandler": "866ec4332670eb0223de765cfb89b0ec1042301525dee5256e1b694743c0ca43",
+    "description:0xcpu/ExecutiveCallbackObjects": "44acc1824e3c592281fd38d4c6b219926c4b9f041dc661a9de6ea2a4a695b689"
   },
   "pending": [],
   "ingested": [
-    {
-      "id": "description:GhostNgEnd/Ghost-AntiCheat",
-      "kind": "description",
-      "at": "2026-08-25"
-    },
     {
       "id": "description:Gforcex/OpenGraphic",
       "kind": "description",
@@ -6382,6 +6378,11 @@
     },
     {
       "id": "description:0xcpu/WinAltSyscallHandler",
+      "kind": "description",
+      "at": "2026-09-06"
+    },
+    {
+      "id": "description:0xcpu/ExecutiveCallbackObjects",
       "kind": "description",
       "at": "2026-09-06"
     }
