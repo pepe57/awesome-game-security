@@ -4,6 +4,8 @@ Append-only journal of ingest / lint / skill-sync activity.
 
 ---
 
+- **2026-09-06** — ingest `description:0vercl0k/kdmp-parser`: entity [[kdmp-parser]] (0vercl0k; C++ kernel crash-dump parser; full/active dump formats; context/exception/bugcheck params + physical memory views; library API + parser CLI; optional Python bindings; crash forensics / kernel debug automation / exploitation RE); cited on [[overviews/reverse-engineering]] and [[overviews/windows-kernel]]; cross-linked [[udmp-parser]], [[symbolizer]], [[snapshot]], [[wtf]], and [[windbg-tool]].
+
 - **2026-09-06** — ingest `description:0vercl0k/rp`: entity [[rp]] (0vercl0k; rp++; fast C++ ROP gadget finder; PE/ELF/Mach-O x86/x64/ARM/ARM64; instruction gadgets + useful pointer values; cross-platform build; exploit dev / binary attack-surface audit; cheat / ROP Finder); cited on [[overviews/reverse-engineering]] and [[overviews/game-hacking]]; cross-linked [[ropgadget]], [[ropgadget-rs]], [[ropium]], [[wtf]], [[symbolizer]], and [[udmp-parser]].
 
 - **2026-09-06** — ingest `description:0vercl0k/snapshot`: entity [[snapshot]] (0vercl0k; Rust WinDbg extension; JSON CPU state + physical memory crash dump; full-kernel/active-kernel modes; dbgeng cdylib for live x64 kernel debug; snapshot-based fuzzing companion to [[wtf]]; Rust WinDbg extension reference; kernel/user-mode vulnerability RE); cited on [[overviews/reverse-engineering]] and [[overviews/windows-kernel]]; cross-linked [[wtf]], [[symbolizer]], [[udmp-parser]], [[windbg-tool]], and [[windbg-js-scripts]].
