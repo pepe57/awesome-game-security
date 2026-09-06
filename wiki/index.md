@@ -3280,6 +3280,7 @@ Compiled knowledge catalog for awesome-game-security.
 - [simplify](entities/simplify.md) — Android Dalvik deobfuscation framework (CalebFenton; Java; virtual execution + optimizer passes — constant propagation, dead code, reflection cleanup; obfuscated APK/DEX analysis; `[Java]`)
 - [sinmapper](entities/sinmapper.md) — user-mode mapper into signed-driver section via physmem + PTE flip; trace cleanup; stealthy kernel load (armvirus; Manual Map In Signed Driver)
 - [sogen](entities/sogen.md) — Windows userspace PE emulator (Unicorn + Capstone; minidump / Zstd state; React web UI; FlatBuffers trace IPC; Windows User Space Emulator)
+- [snapshot](entities/snapshot.md) — Rust WinDbg extension; JSON CPU register state + VM physical memory crash dump for snapshot-based kernel fuzzing (0vercl0k; dbgeng cdylib; full-kernel/active-kernel modes; companion to wtf; WinDbg extension reference)
 - [stackplz](entities/stackplz.md) — Android eBPF stack tracing + hook analysis (SeeFlowerX; Go + C eBPF; syscall/uprobe/hardware-breakpoint capture on ARM64; args/registers/stacks; filtering, structured output, optional Frida RPC; rooted mobile security / game protection RE; cheat / eBPF-based debugger for Android)
 
 - [Static String Obfuscation](entities/static-string-obfuscation.md) — Zig compile-time static string crypter (build-time randomized XOR keys; stripped x86_64 Windows; lightweight runtime decrypt; AC String Crypter; Reijaff)
