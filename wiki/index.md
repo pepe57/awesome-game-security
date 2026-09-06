@@ -1679,6 +1679,7 @@ Compiled knowledge catalog for awesome-game-security.
 - [HIGU_ntcall](entities/higu-ntcall.md) — direct system calls (jnastarot; Some Tricks / Windows Ring3; Windows/Linux/mobile)
 - [hardware_bypass](entities/hardware-bypass.md) — game-side GPU hardware-check bypass DLL (Ke4ton; post-launch inject; client integrity / GPU check bypass)
 - [hook-buster](entities/hook-buster.md) — C/Python Detection:hook research (hook integrity / bust; Anti Cheat)
+- [Hook-Detector](entities/hook-detector.md) — Windows usermode inline/IAT hook detector (0x6461726B; C++20 DX11/ImGui; remote PE parse + manual PEB traversal; module/process scan; x86/x64; anti-cheat / game-security RE; Detection:hook)
 - [hook-updater](entities/hook-updater.md) — Python auto-update Frida hook scripts (cheat / Frida)
 - [hh-lol-prophet](entities/hh-lol-prophet.md) — Go LoL modding sample (hh lol prophet; gmh5225; cheat / game:lol)
 - [HookHunter](entities/hookhunter.md) — Windows process hook/patch scanner + hook destination tracing (Detection:hook; mike1k)
