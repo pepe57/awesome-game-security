@@ -3885,15 +3885,11 @@
     "description:0xcpu/ExecutiveCallbackObjects": "44acc1824e3c592281fd38d4c6b219926c4b9f041dc661a9de6ea2a4a695b689",
     "description:Gingerbeard5773/dino-printer": "54b4171c911a91322676bfce49ac2d88b3866a5056531294939405fbf6765968",
     "description:0xbinder/android-kernel-exploitation-lab": "69c57de2a6e116e92417a2912f0a19b4393aeb1ff6e1789eecf9fbceffdfd12b",
-    "description:0xbigshaq/apatchy": "1cd5008b91f21274f8d8f918dd44041ea16ce770dfdcc630511ba3ef1e379451"
+    "description:0xbigshaq/apatchy": "1cd5008b91f21274f8d8f918dd44041ea16ce770dfdcc630511ba3ef1e379451",
+    "description:0xTriboulet/T-1": "c58de635bb7aec3b8eac2fcd9b1cca2c546b7bb7a8c2a5d0961abe11b69795bf"
   },
   "pending": [],
   "ingested": [
-    {
-      "id": "readme:categories",
-      "kind": "readme",
-      "at": "2026-08-25"
-    },
     {
       "id": "description:damanoreshkan-beep/rtl8852au-userspace",
       "kind": "description",
@@ -6386,6 +6382,11 @@
     },
     {
       "id": "description:0xbigshaq/apatchy",
+      "kind": "description",
+      "at": "2026-09-06"
+    },
+    {
+      "id": "description:0xTriboulet/T-1",
       "kind": "description",
       "at": "2026-09-06"
     }

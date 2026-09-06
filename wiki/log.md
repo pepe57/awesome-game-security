@@ -4,6 +4,8 @@ Append-only journal of ingest / lint / skill-sync activity.
 
 ---
 
+- **2026-09-06** — ingest `description:0xTriboulet/T-1`: entity [[t-1]] (0xTriboulet; C++ shellcode loader; Python/scikit-learn decision-tree VM detection → native C++ checks; conditional shellcode execution vs self-removal; sandbox-awareness + automation-assisted malware analysis research); cited on [[overviews/reverse-engineering]] and [[overviews/anti-cheat]]; cross-linked [[pafish]], [[al-khaser]], [[compact-vm-detector]], and [[anti-sandbox]].
+
 - **2026-09-06** — ingest `description:0xbigshaq/apatchy`: entity [[apatchy]] (0xbigshaq; Python Apache HTTPD fuzzing framework; custom I/O filters replace socket layer; raw-byte injection into real request-pipeline code paths; CVE reproducers + Apache internals docs—memory pools, hooks, filters, buckets; server-side HTTP parsing attack-surface research); cited on [[overviews/reverse-engineering]]; cross-linked [[winafl]], [[fuzzable]], and [[vfdynf]].
 
 - **2026-09-06** — ingest `description:0xbinder/android-kernel-exploitation-lab`: entity [[android-kernel-exploitation-lab]] (0xbinder; practical lab reproducing Android Binder UAF CVE-2019-2215; env setup, kernel source prep/patching, emulator guidance, privesc analysis, GDB/syzkaller/AFL++ fuzzing; mobile kernel security training; cheat / CVE-2019-2215); cited on [[overviews/mobile-security]]; cross-linked [[android-kernel-exploitation]], [[cve-2019-2215]], [[android-kernel-cve-pocs]], and [[android-security-wizard]].

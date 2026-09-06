@@ -3323,6 +3323,7 @@ Compiled knowledge catalog for awesome-game-security.
 - [Stealthy-Kernelmode-Injector](entities/stealthy-kernelmode-injector.md) — kernel-mode stealth DLL injector (APC/thread hijack/image-load callbacks; PEB unlink + metadata cleanup; PTE/VAD manual map; charliewolfe)
 - [SystemThreadFinder](entities/system-thread-finder.md) — detect hidden/manual-map system threads (NtQuerySystemInformation; BE-style)
 - [tabby](entities/tabby.md) — minimal PIC C shellcode micro-framework (PEB/EAT + FNV-1a API hashing; indirect NT syscalls; Linux mingw-w64/nasm → flat `.bin`; cocomelonc; AC shellcode engine & tricks)
+- [T-1](entities/t-1.md) — C++ shellcode loader; scikit-learn decision-tree VM detection exported to native C++ checks; shellcode vs self-removal on sandbox hits (0xTriboulet; sandbox-awareness / malware-analysis research)
 - [Tartarus-TpAllocInject](entities/tartarus-tp-alloc-inject.md) — TpAllocInject loader + Tartarus' Gate indirect syscalls (cheat / injection:windows)
 - [tableflipper](entities/tableflipper.md) — partial PatchGuard disable up to Win11 21H2 (C++; cheat / PatchGuard-related; emlinhax)
 - [Taiga74164 Akebi GC](entities/taiga74164-akebi-gc.md) — upstream Akebi GC Genshin Impact mod framework (C++ injector + in-game menu; protection bypass, teleport, ESP, debug utilities; 360NENZ/Taiga74164)
