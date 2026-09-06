@@ -4,6 +4,8 @@ Append-only journal of ingest / lint / skill-sync activity.
 
 ---
 
+- **2026-09-06** — ingest `readme:categories`: Anti Cheat ~709 (+1; 0x6461726B/[[hook-detector]] usermode inline/IAT hook detector in Detection:Hook) / Cheat ~2788 / other major section counts stable; 41 sections; refreshed README-map counts and scope on [[overviews/overview]], [[overviews/anti-cheat]], [[overviews/dma-attack]], and [[overviews/reverse-engineering]]; light `index.md` section notes (no per-category pages).
+
 - **2026-09-06** — ingest `description:0vercl0k/udmp-parser`: entity [[udmp-parser]] (0vercl0k; cross-platform C++; Windows user-mode minidump parser; threads/register contexts/virtual memory/modules; library API + parser utility; optional Python bindings; debugger tooling / RE / IR dump triage); cited on [[overviews/reverse-engineering]] and [[overviews/windows-kernel]]; cross-linked [[minidump]], [[minidumpreader]], [[libmdmp]], [[ghidra-minidump-loader]], [[dumpulator]], and [[wtf]].
 
 - **2026-09-06** — ingest `description:0vercl0k/wtf`: entity [[wtf]] (0vercl0k; C++; distributed snapshot-based coverage-guided fuzzer; emulator and virtualization snapshot backends for user-mode and kernel-mode; corpus/coverage/trace tooling; Windows primary + experimental Linux; game components, drivers, system services); cited on [[overviews/reverse-engineering]] and [[overviews/game-hacking]]; cross-linked [[winafl]], [[qemu-nyx]], [[fuzzable]], [[hyperdbg]], and [[rax]].
