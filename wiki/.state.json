@@ -3891,15 +3891,11 @@
     "description:0xMohammedHassan/morphkatz": "d2418fd6375783db8b49b625a442103d89bca835624b6dc2235e14efca758941",
     "description:0xJs/BYOVD_read_write_primitive": "9c72b25bb1a89c2ba3bd97479f2f14c72939e55444bbd27bff7c2971601dabb7",
     "description:0xJs/BYOVD_EDRKiller": "17874dbc5fbad5116cb2cb7b0ef8eff2cc0bbfa3e20924320e520b8305b6493a",
-    "description:0xGotcha/XrefXpert": "971bc274981441c3e8d6d75a8b0b0eab7dca0172b5837bb10a9c72f138242233"
+    "description:0xGotcha/XrefXpert": "971bc274981441c3e8d6d75a8b0b0eab7dca0172b5837bb10a9c72f138242233",
+    "description:0xGREG/registry-callbacks": "6e7c81602f2435d94e78acd841134b01afdeead4d300c2b79181b029ad424344"
   },
   "pending": [],
   "ingested": [
-    {
-      "id": "description:Garou3299/tf2bd-database",
-      "kind": "description",
-      "at": "2026-08-25"
-    },
     {
       "id": "description:GameTechDev/PresentMon",
       "kind": "description",
@@ -6392,6 +6388,11 @@
     },
     {
       "id": "description:0xGotcha/XrefXpert",
+      "kind": "description",
+      "at": "2026-09-06"
+    },
+    {
+      "id": "description:0xGREG/registry-callbacks",
       "kind": "description",
       "at": "2026-09-06"
     }

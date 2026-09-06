@@ -4,6 +4,8 @@ Append-only journal of ingest / lint / skill-sync activity.
 
 ---
 
+- **2026-09-06** — ingest `description:0xGREG/registry-callbacks`: entity [[registry-callbacks]] (0xGREG; C/C++ kernel + user-mode PoC; registry-callback comm via jump gadget in legitimate module for manually mapped driver command delivery; virtual/protected memory R/W, process-base lookup, heartbeat; kernel communication / AC evasion research; README `[Registry Callback]`); cited on [[overviews/windows-kernel]] and [[overviews/game-hacking]]; cross-linked [[common-registry-jmp-rcx]], [[common-registry]], [[boundcallback]], [[evcommunication]], and [[km-um-communication]].
+
 - **2026-09-06** — ingest `description:0xGotcha/XrefXpert`: entity [[xrefxpert]] (0xGotcha; Python/PyQt IDA Pro plugin; dockable real-time function xref viewer; click-to-jump + hotkey navigation; filters for immediates, parameter counts, and binary signatures; game binary / vulnerability RE; cheat / IDA Plugins); cited on [[overviews/reverse-engineering]] and [[overviews/game-hacking]]; cross-linked [[find-xrefs]], [[xrefgen]], and [[xrefsext]].
 
 - **2026-09-06** — ingest `description:0xJs/BYOVD_EDRKiller`: entity [[byovd-edrkiller]] (0xJs; educational Windows BYOVD PoC via **`BdApiUtil64.sys`**; C; reverse-engineered device naming, IOCTL selection, and input buffer structure; automates driver deployment, security-process enumeration, repeated termination attempts, and cleanup; authorized red-team research on defensive product resilience and kernel attack surface; README `[BdApiUtil64.sys]`); cited on [[overviews/windows-kernel]] and [[byovd]]; cross-linked [[byovd-read-write-primitive]], [[av-edr-killer]], [[terminator]], [[process-killer-byovd]], and [[edrsandblast]].

@@ -3010,6 +3010,7 @@ Compiled knowledge catalog for awesome-game-security.
 - [ReClassEx](entities/reclass-ex.md) — extended Windows class reconstruction tool (ajkhoury; C++; RTTI, PDB, module targeting, plugins; cheat / debugging)
 - [Reclass](entities/reclass.md) — structured binary editor for unknown data layouts (IChooseYou; C++17/Qt 6; structs/arrays/pointers; process-memory + WinDbg plugins; MCP; cheat / debugging)
 - [regenny](entities/regenny.md) — interactive live-memory struct reconstruction (cursey; C++; nested structs/arrays/pointers/enums/bitfields; header export; cheat / sdk codegen)
+- [registry-callbacks](entities/registry-callbacks.md) — registry-callback KM↔UM PoC for manually mapped drivers via jump gadget in legitimate module; memory R/W, protected patching, process-base lookup, heartbeat (0xGREG; Registry Callback)
 - [recompiler](entities/recompiler.md) — Xbox360→Windows executable porting (console emulator / Xbox RE)
 - [Red Alert 2 on Web](entities/redalert2.md) — RA2/YR RTS engine reimplementation (unit AI, buildings, resources, multiplayer, map rendering; Game Engine / source)
 - [RedTalaria](entities/red-talaria.md) — UE Hermes deep-link plugin (Blueprint nodes/assets/editor URLs; UE 5.3/4.27; team collaboration; Plugins:Unreal; cdpred)
