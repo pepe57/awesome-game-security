@@ -4,6 +4,8 @@ Append-only journal of ingest / lint / skill-sync activity.
 
 ---
 
+- **2026-09-06** — ingest `description:0xdea/frida-scripts`: entity [[0xdea-frida-scripts]] (0xdea; Frida JS instrumentation scripts; iOS/Android/Linux tracing and enumeration helpers; method tracing, class discovery, bypass-oriented snippets; dynamic runtime analysis; cheat / Frida; slug disambiguated from [[frida-scripts]]); cited on [[concepts/frida]] and [[overviews/reverse-engineering]]; cross-linked [[frida-scripts]], [[frida-android-hook]], and [[frida-watchpoint-tutorial]].
+
 - **2026-09-06** — ingest `description:0xdea/rhabdomancer`: entity [[rhabdomancer]] (0xdea; Rust idalib headless IDA plugin; locates strcpy/sprintf/system/ioctl and similar insecure API calls; tiered badness, bookmarks, backtrace audit paths; candidate vulnerability points for manual review; cheat / IDA Plugins); cited on [[overviews/reverse-engineering]]; cross-linked [[ida-security-scanner]], [[headless-ida]], [[ioctlpus]], and [[driver-vuln-analyzer-ida-plugin]].
 
 - **2026-09-05** — ingest `description:0xeb/libghidra`: entity [[libghidra]] (0xeb; C++/Rust/Python JVM-free Ghidra decompiler library; SLEIGH + Pcode; disassembly, decompilation, CFG, types, xrefs; LibGhidraHost HTTP extension or offline Sleigh backend; headless binary analysis); cited on [[overviews/reverse-engineering]]; cross-linked [[ghidra]], [[ghidra-bridge]], [[ghidra-headless-mcp]], and [[headless-ida]].

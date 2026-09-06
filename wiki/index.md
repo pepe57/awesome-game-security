@@ -51,6 +51,7 @@ Compiled knowledge catalog for awesome-game-security.
 
 ## Entities
 
+- [0xdea-frida-scripts](entities/0xdea-frida-scripts.md) — Frida JS instrumentation scripts for iOS/Android/Linux dynamic analysis; method tracing, class discovery, bypass-oriented snippets (0xdea; cheat / Frida; slug disambiguated from [[frida-scripts]])
 - [1.6 C2](entities/1-6-c2.md) — CS1.6 cheat (C++; HL1 client DLL; ESP/aimbot/movement; GoldSrc hook patterns; cheat / game:cs1.6; eversinc33)
 - [2048.cpp](entities/2048-cpp.md) — terminal C++ 2048 (console board / merge scoring; Game Develop / source)
 - [2Pack](entities/2pack.md) — Rust PE & shellcode packer (EXE/DLL + raw; Anti Cheat → Binary Packer)

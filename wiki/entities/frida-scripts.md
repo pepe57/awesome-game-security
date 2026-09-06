@@ -18,4 +18,4 @@ Collection of [[frida]] scripts (JavaScript / Python) for editor tooling and run
 
 ## Related
 
-[[frida]] · [[fridare]] · [[frida-il2cpp-bridge]] · [[overviews/reverse-engineering]] · [[overviews/game-hacking]] · [[overviews/mobile-security]]
+[[frida]] · [[0xdea-frida-scripts]] · [[fridare]] · [[frida-il2cpp-bridge]] · [[overviews/reverse-engineering]] · [[overviews/game-hacking]] · [[overviews/mobile-security]]
