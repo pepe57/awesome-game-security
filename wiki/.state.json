@@ -3883,15 +3883,11 @@
     "description:0xdea/augur": "60083996f392cb3d8050e6ea5b073724e07d8ef0f2200a4c3c7463ffdef6d17b",
     "description:0xcpu/WinAltSyscallHandler": "866ec4332670eb0223de765cfb89b0ec1042301525dee5256e1b694743c0ca43",
     "description:0xcpu/ExecutiveCallbackObjects": "44acc1824e3c592281fd38d4c6b219926c4b9f041dc661a9de6ea2a4a695b689",
-    "description:Gingerbeard5773/dino-printer": "54b4171c911a91322676bfce49ac2d88b3866a5056531294939405fbf6765968"
+    "description:Gingerbeard5773/dino-printer": "54b4171c911a91322676bfce49ac2d88b3866a5056531294939405fbf6765968",
+    "description:0xbinder/android-kernel-exploitation-lab": "69c57de2a6e116e92417a2912f0a19b4393aeb1ff6e1789eecf9fbceffdfd12b"
   },
   "pending": [],
   "ingested": [
-    {
-      "id": "description:GetRektBoy724/Win32kHooker",
-      "kind": "description",
-      "at": "2026-08-25"
-    },
     {
       "id": "description:GetRektBoy724/KPDB",
       "kind": "description",
@@ -6384,6 +6380,11 @@
     },
     {
       "id": "description:Gingerbeard5773/dino-printer",
+      "kind": "description",
+      "at": "2026-09-06"
+    },
+    {
+      "id": "description:0xbinder/android-kernel-exploitation-lab",
       "kind": "description",
       "at": "2026-09-06"
     }
