@@ -4,6 +4,8 @@ Append-only journal of ingest / lint / skill-sync activity.
 
 ---
 
+- **2026-09-06** — ingest `description:0x36/weightBufs`: entity [[weightbufs]] (0x36; Objective-C/C; multi-stage ANE-component kernel R/W exploit chain on Neural-Engine Apple devices; IOKit/IOSurface helpers; iOS 15 + macOS 12; tested device ranges and reliability notes; XNU multi-stage exploitation study; cheat / iOS jailbreak); cited on [[overviews/mobile-security]] and [[overviews/reverse-engineering]]; cross-linked [[xnu-1day-practice]], [[momentarius]], [[kfd]], and [[kfd-explorer]].
+
 - **2026-09-06** — ingest `description:0x5abe/vifterpreter`: entity [[vifterpreter]] (0x5abe; Rust library; PS2 VIF1 DMA packet and VIF command parser; binrw + bilge; DMA tags, unpack/MPG/state opcodes; Serde serialization; mesh/graphics asset stream decode in PS2 game binaries; cheat / RE Tools); cited on [[overviews/reverse-engineering]] and [[overviews/game-hacking]]; cross-linked [[ps2-ida-vu-micro]].
 
 - **2026-09-06** — ingest `description:0x6461726B/Hook-Detector`: entity [[hook-detector]] (0x6461726B; Windows usermode inline/IAT hook detector; C++20 DX11/ImGui GUI; module scanner + remote PE parsing + manual PEB traversal; in-memory vs on-disk code compare; x86/x64; anti-cheat developers / game-security RE; Detection:hook); cited on [[overviews/anti-cheat]] and [[overviews/windows-kernel]]; cross-linked [[hookhunter]], [[nt-unhooker]], [[patch-finder]], and [[pe-sieve]].
