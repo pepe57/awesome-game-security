@@ -4366,6 +4366,7 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 - https://github.com/gravemaulr/mlanticheat [Paper Minecraft anti-cheat that trains per-server ML models on combat/aim behavior with shadow mode and PacketEvents integration]
 - https://github.com/g4vrk/React [Paper/Folia Minecraft aim-assist anti-cheat using rotation heuristics and optional AI verdict server]
 - https://github.com/RiseShieldDev/AntiXrayViewer [Paper Minecraft plugin that detects X-Ray ore mining, records player sessions, and lets admins replay suspicious activity]
+- https://github.com/boggymc/PetalAntiFreecam [Paper plugin that masks underground blocks in outgoing chunk packets to mitigate Minecraft freecam/wallhack cheats]
 - https://github.com/enis1enis2/WindfallAntiCheatF [Minecraft Fabric packet-based anti-cheat with combat/movement checks and Geyser/Bedrock compatibility]
 - https://github.com/IamFriendly0242u/The-Dreamers-Guards [Fabric server/client anti-cheat suite with mod blacklist scanning, encrypted auth, progressive punishments, and Discord alerts]
 - https://github.com/EliGamer154/CheatCheck [Fabric server-side Minecraft mod with player reporting, /cheatcheck spectate moderation, safemode, and tempban toolkit for vanilla clients]
