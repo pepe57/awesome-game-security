@@ -3087,6 +3087,7 @@ Compiled knowledge catalog for awesome-game-security.
 - [rtcore64-vulnerability](entities/rtcore64-vulnerability.md) — BYOVD driver mapper via MSI Afterburner `RTCore64.sys` (R/W primitives + data-ptr hook; `MmAllocateIndependentPagesEx` search; manual unsigned map; gmh5225)
 - [RToolZ](entities/rtoolz.md) — rootkit-like process/callback utility (hide/unhide, callback enum/remove, protection-level control; ProcExp152.sys; gmh5225)
 - [RootSocketKit](entities/root-socket-kit.md) — Android LKM + Unix-socket root memory R/W (Magisk/KernelSU/APatch JNI; GUI)
+- [rp](entities/rp.md) — fast C++ ROP gadget finder (0vercl0k; rp++; PE/ELF/Mach-O x86/x64/ARM/ARM64; instruction gadgets + pointer values; cross-platform; exploit dev / binary attack-surface audit; cheat / ROP Finder)
 - [rop-compiler](entities/rop-compiler.md) — x86 ROP compiler for game cheat payloads (assembly-like scripts → chains; CS:GO/BF3/BF4; triggerbot/glow ESP/minimap; gadget scan + offsets; C++; cheat / ROP Generation)
 - [ropium](entities/ropium.md) — ROP chain builder (C++ core + Python bindings; gadget extract/analyze + semantic queries; CLI + scriptable; exploit dev / binary security education; Boyan-MILANOV; cheat / ROP Generation)
 - [ropgadget](entities/ropgadget.md) — Python ROP gadget finder (Capstone; ELF/PE/Mach-O/raw; multi-arch filter/search; optional chain gen; JonathanSalwan; cheat / ROP Finder)

@@ -3905,15 +3905,11 @@
     "description:0vercl0k/udmp-parser": "aef6e133cf7ca824afd0ac8074dab196459a8f8d29bb3813b9490b9c13f4aaf1",
     "description:noahware/armcall": "940462cb23377462c49af9752f5bcd2a496da58c61c05c77f724f74295b09dbb",
     "description:0vercl0k/symbolizer": "cc41d139ade690f2f8204711850862b8fa5ba9a15e7f1c9e9d83c0c0e574ca29",
-    "description:0vercl0k/snapshot": "9e298bfbb691f2efb4cec38ae5c925c462d2b0aae15f13cb1fa889d188404ac9"
+    "description:0vercl0k/snapshot": "9e298bfbb691f2efb4cec38ae5c925c462d2b0aae15f13cb1fa889d188404ac9",
+    "description:0vercl0k/rp": "f909175b2ab367c82bd18e9a93ae4169661c085afac77aebc3474fe0522df238"
   },
   "pending": [],
   "ingested": [
-    {
-      "id": "description:FreeER/CE-Extensions",
-      "kind": "description",
-      "at": "2026-08-25"
-    },
     {
       "id": "description:FreeER/CE-Examples",
       "kind": "description",
@@ -6406,6 +6402,11 @@
     },
     {
       "id": "description:0vercl0k/snapshot",
+      "kind": "description",
+      "at": "2026-09-06"
+    },
+    {
+      "id": "description:0vercl0k/rp",
       "kind": "description",
       "at": "2026-09-06"
     }
