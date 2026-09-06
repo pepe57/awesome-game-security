@@ -3901,15 +3901,11 @@
     "description:0x36/weightBufs": "291a541e8275391690a183aadefa60dc557a83678855487cf9c97a871ad1d9ab",
     "description:0x36/Pixel_GPU_Exploit": "06aa0def477a2c6b9e1650c66023eeaa43ad5777e45608ffa2742be63b9ffcf6",
     "description:0x0funky/agent-sprite-forge": "f842d2b028fc96e773434a854481cfcdd70f3d6c3223cd7ddf0a3d7a03f295e3",
-    "description:0vercl0k/wtf": "be5d50439c5c2e6c1d213e7752a19068c2c6fc13bc2e8aec2de016a0f47b57f3"
+    "description:0vercl0k/wtf": "be5d50439c5c2e6c1d213e7752a19068c2c6fc13bc2e8aec2de016a0f47b57f3",
+    "description:0vercl0k/udmp-parser": "aef6e133cf7ca824afd0ac8074dab196459a8f8d29bb3813b9490b9c13f4aaf1"
   },
   "pending": [],
   "ingested": [
-    {
-      "id": "description:InertiaOrg/Inertia",
-      "kind": "description",
-      "at": "2026-08-25"
-    },
     {
       "id": "description:GAMMACASE/PltPatcher",
       "kind": "description",
@@ -6402,6 +6398,11 @@
     },
     {
       "id": "description:0vercl0k/wtf",
+      "kind": "description",
+      "at": "2026-09-06"
+    },
+    {
+      "id": "description:0vercl0k/udmp-parser",
       "kind": "description",
       "at": "2026-09-06"
     }

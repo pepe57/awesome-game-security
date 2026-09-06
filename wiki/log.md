@@ -4,6 +4,8 @@ Append-only journal of ingest / lint / skill-sync activity.
 
 ---
 
+- **2026-09-06** — ingest `description:0vercl0k/udmp-parser`: entity [[udmp-parser]] (0vercl0k; cross-platform C++; Windows user-mode minidump parser; threads/register contexts/virtual memory/modules; library API + parser utility; optional Python bindings; debugger tooling / RE / IR dump triage); cited on [[overviews/reverse-engineering]] and [[overviews/windows-kernel]]; cross-linked [[minidump]], [[minidumpreader]], [[libmdmp]], [[ghidra-minidump-loader]], [[dumpulator]], and [[wtf]].
+
 - **2026-09-06** — ingest `description:0vercl0k/wtf`: entity [[wtf]] (0vercl0k; C++; distributed snapshot-based coverage-guided fuzzer; emulator and virtualization snapshot backends for user-mode and kernel-mode; corpus/coverage/trace tooling; Windows primary + experimental Linux; game components, drivers, system services); cited on [[overviews/reverse-engineering]] and [[overviews/game-hacking]]; cross-linked [[winafl]], [[qemu-nyx]], [[fuzzable]], [[hyperdbg]], and [[rax]].
 
 - **2026-09-06** — ingest `description:0x0funky/agent-sprite-forge`: entity [[agent-sprite-forge]] (0x0funky; Codex skills; AI imagegen for game-ready 2D sprites and layered maps; local post-processing clean/split/validate/export pipelines; Godot/Unity/raw 2D workflows; Game Develop / AI Agents); cited on [[overviews/game-engine]] and [[overviews/overview]]; cross-linked [[image-cockpit-for-codex-workflows]], [[sprite-sheet-creator]], [[3d-asset-factory]], [[image-blaster]], and [[awesome-gamedev-agent-skills]].

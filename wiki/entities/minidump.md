@@ -12,7 +12,7 @@ confidence: medium
 
 Python library for parsing Windows minidump (`.dmp`) files without Windows or WinDbg. Extracts process memory, thread contexts, module lists, exception records, and system info from full and mini dump formats; usable programmatically for automated analysis or credential extraction from LSASS dumps. Aimed at IR, forensics, and pentest workflows on cross-platform hosts. (source: wiki/sources/descriptions/skelsec__minidump.md)
 
-Complements Python dump tooling such as [[minidumpreader]], C/C++ format libraries such as [[libmdmp]], Ghidra-native dump loading via [[ghidra-minidump-loader]] (runtime module mapping, private memory/thread stacks, thread-view stack walking), Ring3 MiniDump callback research such as [[atpminidump]], in-memory `MiniDumpWriteDump` hook PoCs such as [[minidumpwritedumppoc]], Unicorn-based offline execution via [[dumpulator]] (reconstruct layout from `.dmp` streams; syscall stubs / PEB·TEB / API hooks), WinDbg-flavored `MEMORY.DMP` analysis via [[ephemera]], RAM-image frameworks [[volatility]] / [[volatility3]], and LSASS post-dump forensics such as [[kvcforensic]].
+Complements Python dump tooling such as [[minidumpreader]], cross-platform C++ user-mode minidump parsing via [[udmp-parser]] (0vercl0k; threads/register contexts/virtual memory/modules; library API + parser utility; optional Python bindings), C/C++ format libraries such as [[libmdmp]], Ghidra-native dump loading via [[ghidra-minidump-loader]] (runtime module mapping, private memory/thread stacks, thread-view stack walking), Ring3 MiniDump callback research such as [[atpminidump]], in-memory `MiniDumpWriteDump` hook PoCs such as [[minidumpwritedumppoc]], Unicorn-based offline execution via [[dumpulator]] (reconstruct layout from `.dmp` streams; syscall stubs / PEB·TEB / API hooks), WinDbg-flavored `MEMORY.DMP` analysis via [[ephemera]], RAM-image frameworks [[volatility]] / [[volatility3]], and LSASS post-dump forensics such as [[kvcforensic]].
 
 ## Links
 
@@ -20,4 +20,4 @@ Complements Python dump tooling such as [[minidumpreader]], C/C++ format librari
 
 ## Related
 
-[[atpminidump]] · [[dumpulator]] · [[ghidra-minidump-loader]] · [[libmdmp]] · [[minidumpreader]] · [[ephemera]] · [[kvcforensic]] · [[volatility]] · [[volatility3]] · [[mcp-windbg]] · [[overviews/windows-kernel]] · [[overviews/reverse-engineering]]
+[[atpminidump]] · [[dumpulator]] · [[ghidra-minidump-loader]] · [[libmdmp]] · [[minidumpreader]] · [[udmp-parser]] · [[ephemera]] · [[kvcforensic]] · [[volatility]] · [[volatility3]] · [[mcp-windbg]] · [[overviews/windows-kernel]] · [[overviews/reverse-engineering]]
