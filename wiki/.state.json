@@ -3898,15 +3898,11 @@
     "description:0xCD4/SSL-bypass": "dee26603bf1754c6770c7aa87cad4b2712869bb424f90cc6aa37b9fcd41902a6",
     "description:0x6461726B/Hook-Detector": "0353489292928e4a5356eb58ff734c7ae31f16da826e4746852c2465b582065b",
     "description:0x5abe/vifterpreter": "e7cfffd8579f191726d0b95280b229a3977e584d8a0294ce38573be0d68fe4c7",
-    "description:0x36/weightBufs": "291a541e8275391690a183aadefa60dc557a83678855487cf9c97a871ad1d9ab"
+    "description:0x36/weightBufs": "291a541e8275391690a183aadefa60dc557a83678855487cf9c97a871ad1d9ab",
+    "description:0x36/Pixel_GPU_Exploit": "06aa0def477a2c6b9e1650c66023eeaa43ad5777e45608ffa2742be63b9ffcf6"
   },
   "pending": [],
   "ingested": [
-    {
-      "id": "description:GLX-ILLUSION/valorant-offsets-autoupdater",
-      "kind": "description",
-      "at": "2026-08-25"
-    },
     {
       "id": "description:GJDuck/e9patch",
       "kind": "description",
@@ -6399,6 +6395,11 @@
     },
     {
       "id": "description:0x36/weightBufs",
+      "kind": "description",
+      "at": "2026-09-06"
+    },
+    {
+      "id": "description:0x36/Pixel_GPU_Exploit",
       "kind": "description",
       "at": "2026-09-06"
     }
