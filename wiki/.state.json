@@ -3887,15 +3887,11 @@
     "description:0xbinder/android-kernel-exploitation-lab": "69c57de2a6e116e92417a2912f0a19b4393aeb1ff6e1789eecf9fbceffdfd12b",
     "description:0xbigshaq/apatchy": "1cd5008b91f21274f8d8f918dd44041ea16ce770dfdcc630511ba3ef1e379451",
     "description:0xTriboulet/T-1": "c58de635bb7aec3b8eac2fcd9b1cca2c546b7bb7a8c2a5d0961abe11b69795bf",
-    "description:0xPrimo/KMDllInjector": "2f4cd52a9fe90b95ba601786482df7ecd8ca3d69a3cc9461266d5d644fc3e703"
+    "description:0xPrimo/KMDllInjector": "2f4cd52a9fe90b95ba601786482df7ecd8ca3d69a3cc9461266d5d644fc3e703",
+    "description:0xMohammedHassan/morphkatz": "d2418fd6375783db8b49b625a442103d89bca835624b6dc2235e14efca758941"
   },
   "pending": [],
   "ingested": [
-    {
-      "id": "description:GetRektBoy724/DCMB",
-      "kind": "description",
-      "at": "2026-08-25"
-    },
     {
       "id": "description:Genymobile/scrcpy",
       "kind": "description",
@@ -6388,6 +6384,11 @@
     },
     {
       "id": "description:0xPrimo/KMDllInjector",
+      "kind": "description",
+      "at": "2026-09-06"
+    },
+    {
+      "id": "description:0xMohammedHassan/morphkatz",
       "kind": "description",
       "at": "2026-09-06"
     }

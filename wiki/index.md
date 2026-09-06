@@ -2406,6 +2406,7 @@ Compiled knowledge catalog for awesome-game-security.
 - [mordhau-simple-auto-block-cheat](entities/mordhau-simple-auto-block-cheat.md) — Mordhau internal melee automation (Skengdo; C++; auto-block/auto-stab; large generated UE SDK; injected combat module; cheat / game:mordhau [Internal])
 - [moonwalk](entities/moonwalk.md) — Rust PEB-less DLL base discovery via TEB/stack walk (VirtualQuery or API-free variants; CLI + library; Teach2Breach)
 - [morphida](entities/morphida.md) — CI polymorphic anti-detection Android arm64 frida-server builds; per-build upstream clone; randomized static fingerprints; NDK symbol strip; CI strings gate; adb helpers (1013503897)
+- [MorphKatz](entities/morphkatz.md) — polymorphic mimikatz PE rewriter (Windows x64; disassembly, CFG analysis, instruction morphing, data-flow obfuscation; signature-evasion research; 0xMohammedHassan)
 - [mojoelf](entities/mojoelf.md) — in-process ELF loader from non-filesystem sources (alternative to `dlopen()`; Cheat / Android memory loading)
 - [Mount System Partition (brew02)](entities/mount-system-partition.md) — user-mode Windows API ESP mount (C++; partition enumeration; UEFI security / firmware RE)
 - [MouHidInputHook (changeofpace)](entities/mouhid-input-hook.md) — MouHid CONNECT_DATA ClassService hook; filter/modify/inject mouse packets without filter devices (PatchGuard-safe; input simulation / AC research)

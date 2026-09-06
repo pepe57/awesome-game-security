@@ -4,6 +4,8 @@ Append-only journal of ingest / lint / skill-sync activity.
 
 ---
 
+- **2026-09-06** — ingest `description:0xMohammedHassan/morphkatz`: entity [[morphkatz]] (0xMohammedHassan; polymorphic mutation engine for mimikatz; Windows x64 PE rewriter; disassembly, CFG analysis, register renaming, junk insertion, equivalent substitution, data-flow obfuscation; semantically identical byte-different variants for signature-evasion study; AC Obfuscation Engine); cited on [[overviews/anti-cheat]] and [[overviews/reverse-engineering]]; cross-linked [[beatrice-py]], [[shredder-rs]], [[r2morph]], and [[alcatraz]].
+
 - **2026-09-06** — ingest `description:0xPrimo/KMDllInjector`: entity [[kmdllinjector]] (0xPrimo; C++ kernel-mode DLL injection framework; early-startup targeting; process/image-load callback triggering; ntdll loader hooks with position-independent shellcode; kernel APC path for early user-mode execution; advanced process injection research in controlled security testing; kernel-mode DLL Injector); cited on [[overviews/windows-kernel]] and [[overviews/game-hacking]]; cross-linked [[kernel-dll-injector]], [[kernelmode-dll-injector]], [[injdrv]], [[kinject]], [[stealthy-kernelmode-injector]], [[kernel-callbacks]], [[apc-research]], and [[windows-process-injection]].
 
 - **2026-09-06** — ingest `description:0xTriboulet/T-1`: entity [[t-1]] (0xTriboulet; C++ shellcode loader; Python/scikit-learn decision-tree VM detection → native C++ checks; conditional shellcode execution vs self-removal; sandbox-awareness + automation-assisted malware analysis research); cited on [[overviews/reverse-engineering]] and [[overviews/anti-cheat]]; cross-linked [[pafish]], [[al-khaser]], [[compact-vm-detector]], and [[anti-sandbox]].
