@@ -431,6 +431,7 @@ Compiled knowledge catalog for awesome-game-security.
 - [ATDCM64a-LPE](entities/atdcm64a-lpe.md) — AMD `atdcm64a.sys` arbitrary-pointer-dereference LPE PoC (C++ VS + deploy scripts; lab kernel exploit template; MrAle98; [atdcm64a.sys])
 - [ATPMiniDump](entities/atpminidump.md) — C/C++ aTPMiniDump callback (Ring3 minidump instrumentation; memory analysis; AC / Windows callback lane; b4rtik)
 - [autismware](entities/autismware.md) — CS:GO internal cheat (C++; interface capture + VMT hooks; ESP/aimbot/backtrack/skin changer + ImGui menu; gmh5225 [HvH])
+- [augur](entities/augur.md) — headless IDA Pro string→pseudocode extractor (Rust/idalib; Hex-Rays; per-string decompiled xref dirs; static triage pipelines; 0xdea; cheat / IDA Plugins)
 - [augur-riot](entities/augur-riot.md) — Vanguard RITO streamed-module → PE converter (hashed imports, section rebuild; kernel RE; gmh5225)
 - [aurum-re](entities/aurum-re.md) — Aurum RE Ricochet anti-cheat research (RE + driver development; explore anticheat:ricochet; gmh5225)
 - [AwaitFuscator](entities/awaitfuscator.md) — .NET bin2bin obfuscator; rewrites method bodies into long await chains via custom awaiters (GetAwaiter/GetResult); decompiler-resistant control-flow PoC CLI (Washi1337; Obfuscation Engine / `.NET`)

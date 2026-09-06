@@ -3879,15 +3879,11 @@
     "description:0xeb/windbg-copilot": "47e8babe77fcab2d7529b2ef96e3fc7458a8829e24587521ef9843bcb080c9d1",
     "description:0xeb/libghidra": "98a632357450eaf098cc2de6cdf4030e3d4e88b355460ea14d13cd8b3e87903b",
     "description:0xdea/rhabdomancer": "eb510f48a91f7afd89a0c7d10186c7fb0541af7c8e8dc20f461f0bc542fb168a",
-    "description:0xdea/frida-scripts": "802da3adf896252e05a5ef4039a0f59845c243c394a562f63a74819d053d7242"
+    "description:0xdea/frida-scripts": "802da3adf896252e05a5ef4039a0f59845c243c394a562f63a74819d053d7242",
+    "description:0xdea/augur": "60083996f392cb3d8050e6ea5b073724e07d8ef0f2200a4c3c7463ffdef6d17b"
   },
   "pending": [],
   "ingested": [
-    {
-      "id": "description:GiannBart/BanMod",
-      "kind": "description",
-      "at": "2026-08-25"
-    },
     {
       "id": "description:Ghostleadie/CheatManagerMenu",
       "kind": "description",
@@ -6380,6 +6376,11 @@
     },
     {
       "id": "description:0xdea/frida-scripts",
+      "kind": "description",
+      "at": "2026-09-06"
+    },
+    {
+      "id": "description:0xdea/augur",
       "kind": "description",
       "at": "2026-09-06"
     }
