@@ -3912,15 +3912,11 @@
     "description:0mWindyBug/DataptrHooks": "0b497068e36445574decfba450303c1330eb05a5e79637ebdfa66e0c21c65e2a",
     "description:0liverFlow/CVE2PoC": "691401b36293a3de7ba6fe0c036d0b6398def007dd78004bcb937e893de6a343",
     "description:0ffffffffh/yummyPaste": "109196d6ba1783c658bee4d2f0872680620b31428df6f7bc6efb5ff13bb88647",
-    "description:0dayatday0/BattleFN-cheat-analysis": "5c7fb77f9d291321b89c5c6a394c0523f975b9daacd7237e5df369d876223085"
+    "description:0dayatday0/BattleFN-cheat-analysis": "5c7fb77f9d291321b89c5c6a394c0523f975b9daacd7237e5df369d876223085",
+    "description:boggymc/PetalAntiFreecam": "14e767b3ad48ec2eb318a026c69d67f3a71c1ec0304c62ff2bd384339c42dd37"
   },
   "pending": [],
   "ingested": [
-    {
-      "id": "description:FourCoreLabs/LolDriverScan",
-      "kind": "description",
-      "at": "2026-08-25"
-    },
     {
       "id": "description:FlaxEngine/FlaxEngine",
       "kind": "description",
@@ -6414,6 +6410,11 @@
     {
       "id": "readme:categories",
       "kind": "readme",
+      "at": "2026-09-07"
+    },
+    {
+      "id": "description:boggymc/PetalAntiFreecam",
+      "kind": "description",
       "at": "2026-09-07"
     }
   ],

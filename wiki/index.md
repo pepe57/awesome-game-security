@@ -2697,7 +2697,7 @@ Compiled knowledge catalog for awesome-game-security.
 - [PAGE_NO_ACCESS-not-byfron](entities/page-no-access-not-byfron.md) — VEH + PAGE_NOACCESS Byfron/Hyperion anti-tamper PoC (LoadLibrary tester; gmh5225)
 - [Paksmith](entities/paksmith.md) — Rust UE pak/UAsset explorer (FModel rewrite; pak v3–v11; Game Assets)
 - [paladins-internal-cheat](entities/paladins-internal-cheat.md) — Paladins internal: optional Mhyprot backend + borderless overlay (gmh5225; cheat / game:paladins)
-- [PetalAntiFreecam](entities/petal-anti-freecam.md) — Paper Minecraft chunk-packet freecam mitigation (Java; PacketEvents outgoing chunk masking; configurable hide-Y terrain strip; CanvasMC 1.21; boggymc; Anti Cheat / game:minecraft)
+- [PetalAntiFreecam](entities/petal-anti-freecam.md) — Paper/CanvasMC **1.21** Minecraft chunk-packet freecam/wallhack mitigation (Java; PacketEvents ChunkMasker; configurable hide/restore Y; tile-entity filtering; per-tick refresh budget; runtime reload; boggymc; Anti Cheat / game:minecraft)
 - [PalAntiCheat-poc](entities/palanticheat-poc.md) — Palworld UE5 AC PoC (dumped SDK + UObject/UProperty fixup; Anti Cheat)
 - [PalEdit](entities/pal-edit.md) — Palworld Python desktop save editor (Pal companion edit/clone; write-back; Windows exe build; cheat / game:palworld [Save])
 - [PalWorldAntiCheat](entities/palworld-anti-cheat.md) — Palworld UE5 AC research (C#; shader/render/audio; Anti Cheat)
