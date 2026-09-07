@@ -4,6 +4,8 @@ Append-only journal of ingest / lint / skill-sync activity.
 
 ---
 
+- **2026-09-07** — ingest `readme:categories`: Anti Cheat ~710 (+1; boggymc/[[petal-anti-freecam]] Paper chunk-packet freecam masking in Open Source Anti Cheat System) / Cheat ~2788 / other major section counts stable; 41 sections; entity [[petal-anti-freecam]]; refreshed README-map counts and scope on [[overviews/overview]], [[overviews/anti-cheat]], [[overviews/dma-attack]], and [[overviews/reverse-engineering]]; light `index.md` section notes (no per-category pages).
+
 - **2026-09-06** — ingest `description:0dayatday0/BattleFN-cheat-analysis`: entity [[battlefn-cheat-analysis]] (0dayatday0; detected Fortnite cheat technical analysis package; written breakdown + sample modules + manual-map / privileged-memory PoCs; batch + C++ usermode→kernel interaction demos; real-world tradecraft and mistake study for AC/RE researchers); cited on [[overviews/game-hacking]] and [[overviews/anti-cheat]]; cross-linked [[fortnite-cheat-leak]], [[fortnite-external-cheat-leak]], [[easy-anti-cheat]], [[known-driver-mappers]], and [[kdmapper]].
 
 - **2026-09-06** — ingest `description:0xffffffffh/yummyPaste`: entity [[yummy-paste]] (0ffffffffh; C++ x64dbg plugin; paste formatted byte blocks into memory/dump views; C-style arrays, escaped shellcode, comma/space-separated decimals; disassembler and dump patching; quick byte injection; README paste string formatted byte data block into x64dbg easy); cited on [[overviews/reverse-engineering]] and [[overviews/game-hacking]]; cross-linked [[x64dbg]], [[multiline-ultimate-assembler]], [[x64dbgpython]], and [[x64dbg-script]].
