@@ -3146,6 +3146,7 @@ Compiled knowledge catalog for awesome-game-security.
 - [Samidare](entities/samidare.md) — M3351AN external CS2 cheat (C++; FIFO-based kernel driver comm + DirectX overlay; offset management + game-data reads + coordinate math; driver-assisted external cheat + overlay rendering research; cheat / game:cs2 [External Ring3/Ring0])
 - [Sanctum](entities/sanctum.md) — experimental Windows EDR PoC (0xflux; Rust; kernel driver + user-mode engine + Tauri UI; process/thread/filesystem/syscall monitoring; ETW consumers, minifilter, kernel hooking/containment; low-level defensive tooling research; README [EDR])
 - [sea-of-choros](entities/sea-of-choros.md) — Sea of Thieves modding / SDK generation / hooking scaffold (C/C++; Unreal; cheat / game:sea of thieves; gmh5225)
+- [Seaside](entities/seaside.md) — internal CS:GO visual cheat framework (0TheSpy; C++; Source interfaces, hooking, netvars, pattern scan; ImGui DirectX 9 menu; aim, recoil, skin/inventory, event listeners, config; internal cheat architecture research; cheat / game:csgo [Internal])
 - [SENinja](entities/seninja.md) — Binary Ninja symbolic execution plugin (Python; BN IL path exploration; constraint tracking, unreachable-code detection, interactive UI; Cheat Symbolic Execution; borzacchiello)
 - [so_loader](entities/so-loader.md) — C/C++ Android native `.so` memory loading (Cheat / Android memory loading)
 - [sbox](entities/sbox.md) — C++ compile-time AES-128 / S-box string obfuscation (Obfusk8 spin-off)
