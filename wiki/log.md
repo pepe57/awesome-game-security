@@ -4,6 +4,8 @@ Append-only journal of ingest / lint / skill-sync activity.
 
 ---
 
+- **2026-09-07** — ingest `description:000-aki-000/GameDebugMenu`: entity [[game-debug-menu]] (000-aki-000; UE debug menu plugin; C++ module + Blueprint/UI assets; console commands, gameplay property/function editing, localization, persisted menu state; dev/QA runtime testing and tuning; Game Engine / Plugins:Unreal); cited on [[overviews/game-engine]] and [[overviews/game-hacking]]; cross-linked [[cheat-manager-menu]], [[unreal-imgui-tools]], [[unrealcpp]], and [[unreal-mod-loader]].
+
 - **2026-09-07** — ingest `description:00christian00/UnityDecompiled`: entity [[unity-decompiled]] (00christian00; unofficial ILSpy decompiled Unity 5.x editor/engine assembly mirror; large C# solution; internal APIs and editor behavior; engine RE, tooling research, compatibility analysis; decompiled Unity dll files); cited on [[overviews/game-engine]] and [[overviews/reverse-engineering]]; cross-linked [[unity-cs-reference]], [[ilspy]], [[dnspy]], [[unityexplorer]], and [[asset-ripper]].
 
 - **2026-09-07** — ingest `description:0TheSpy/Seaside`: entity [[seaside]] (0TheSpy; C++ internal CS:GO visual cheat framework; Source engine interfaces, hooking, netvar handling, pattern scanning; ImGui DirectX 9 menu; aim assistance, recoil handling, skin/inventory customization, event listeners, configuration management; internal cheat architecture research on Source titles; cheat / game:csgo [Internal]); cited on [[overviews/game-hacking]] and [[overviews/graphics-api]]; cross-linked [[spy-external1337hax]], [[csgo-internal-base]], [[csgo-main-internal]], and [[source-netvars]].
