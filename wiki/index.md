@@ -3534,6 +3534,7 @@ Compiled knowledge catalog for awesome-game-security.
 - [Unity Script Collection](entities/unity-script-collection.md) — maintained free Unity scripts/libraries/plugins/extensions catalog (Game Engine / Plugins:Unity)
 - [Unity-Cheat-Sheet](entities/unity-cheat-sheet.md) — Unity engine/API cheat sheet (Game Engine / guide)
 - [Unity C# Reference](entities/unity-cs-reference.md) — official Unity engine/editor managed C# reference source (reference-only license; Game Engine / [C# reference]; Unity-Technologies)
+- [UnityDecompiled](entities/unity-decompiled.md) — unofficial ILSpy decompiled Unity 5.x editor/engine assembly mirror (00christian00; large C# solution; internal APIs/editor behavior; engine RE, tooling research, compatibility analysis; decompiled Unity dll files)
 - [UnityExplorer](entities/unityexplorer.md) — runtime Unity inspector (BepInEx/MelonLoader; hierarchy/REPL; Mono+IL2CPP)
 - [unispect-dma-plugin](entities/unispect-dma-plugin.md) — Unispect Mono dump + DMA (Razchek fork fix; Memory Plugin dispose; cheat / game engine explorer:Unity [DMA])
 - [unity-vrchat-template](entities/unity-vrchat-template.md) — Unity VRChat starter template (graphics / audio / physics; Game Develop / source)

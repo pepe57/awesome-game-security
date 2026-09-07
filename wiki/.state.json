@@ -3915,15 +3915,11 @@
     "description:0dayatday0/BattleFN-cheat-analysis": "5c7fb77f9d291321b89c5c6a394c0523f975b9daacd7237e5df369d876223085",
     "description:boggymc/PetalAntiFreecam": "14e767b3ad48ec2eb318a026c69d67f3a71c1ec0304c62ff2bd384339c42dd37",
     "description:0TheSpy/SpyExternal1337hax": "53b5661addef9e851a77605dc58f3ed71cbaf75d7999ee593df13cb90b64b252",
-    "description:0TheSpy/Seaside": "a65b7c1a24454f15c8da73caea65e46b839d086fc349f4a3322e263c0c14e0ca"
+    "description:0TheSpy/Seaside": "a65b7c1a24454f15c8da73caea65e46b839d086fc349f4a3322e263c0c14e0ca",
+    "description:00christian00/UnityDecompiled": "78bce2589d0c3e0625803408580aee1668f6c29df1b2bc4d8f630f747b4ad892"
   },
   "pending": [],
   "ingested": [
-    {
-      "id": "description:FiYHer/InfinityHookPro",
-      "kind": "description",
-      "at": "2026-08-25"
-    },
     {
       "id": "description:Fewnity/Counter-Strike-Nintendo-DS",
       "kind": "description",
@@ -6416,6 +6412,11 @@
     },
     {
       "id": "description:0TheSpy/Seaside",
+      "kind": "description",
+      "at": "2026-09-07"
+    },
+    {
+      "id": "description:00christian00/UnityDecompiled",
       "kind": "description",
       "at": "2026-09-07"
     }
