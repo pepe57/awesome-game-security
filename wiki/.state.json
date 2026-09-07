@@ -3913,15 +3913,11 @@
     "description:0liverFlow/CVE2PoC": "691401b36293a3de7ba6fe0c036d0b6398def007dd78004bcb937e893de6a343",
     "description:0ffffffffh/yummyPaste": "109196d6ba1783c658bee4d2f0872680620b31428df6f7bc6efb5ff13bb88647",
     "description:0dayatday0/BattleFN-cheat-analysis": "5c7fb77f9d291321b89c5c6a394c0523f975b9daacd7237e5df369d876223085",
-    "description:boggymc/PetalAntiFreecam": "14e767b3ad48ec2eb318a026c69d67f3a71c1ec0304c62ff2bd384339c42dd37"
+    "description:boggymc/PetalAntiFreecam": "14e767b3ad48ec2eb318a026c69d67f3a71c1ec0304c62ff2bd384339c42dd37",
+    "description:0TheSpy/SpyExternal1337hax": "53b5661addef9e851a77605dc58f3ed71cbaf75d7999ee593df13cb90b64b252"
   },
   "pending": [],
   "ingested": [
-    {
-      "id": "description:FlaxEngine/FlaxEngine",
-      "kind": "description",
-      "at": "2026-08-25"
-    },
     {
       "id": "description:Firejumper93/Ghost-Recon-Wildlands-First-Person-No-EAC",
       "kind": "description",
@@ -6414,6 +6410,11 @@
     },
     {
       "id": "description:boggymc/PetalAntiFreecam",
+      "kind": "description",
+      "at": "2026-09-07"
+    },
+    {
+      "id": "description:0TheSpy/SpyExternal1337hax",
       "kind": "description",
       "at": "2026-09-07"
     }

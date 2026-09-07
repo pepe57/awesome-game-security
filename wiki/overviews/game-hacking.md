@@ -485,6 +485,7 @@ sources:
   - wiki/sources/descriptions/si1kyyy__csgo_cheat_external.md
   - wiki/sources/descriptions/rrpvm__csgo-external-cheat.md
   - wiki/sources/descriptions/forceinline__csgo-external-esp.md
+  - wiki/sources/descriptions/0TheSpy__SpyExternal1337hax.md
   - wiki/sources/descriptions/flowxrc__csgo-xenforo-loader.md
   - wiki/sources/descriptions/b1scoito__cozinha_loader.md
   - wiki/sources/descriptions/sneakyevilSK__CSGO_BacktrackPatch.md
@@ -2517,6 +2518,7 @@ C++ Unity cheat frameworks such as [[unityresolve-hpp]] (rendering / physics / m
 - Tutorial-oriented external CS:GO examples such as [[csgo-cheats]] (HeathHowren; C++ Visual Studio; window discovery, process open, memory R/W helper wrappers, offset-driven maintenance; beginner game-memory manipulation + defender cheat-pattern study; cheat / game:csgo [External]) sit in the same educational external lane beside [[pointer-lab]] from the same author. (source: wiki/sources/descriptions/HeathHowren__CSGO-Cheats.md)
 - CS:GO radar samples such as [[boltobserv]] (boltgolt; README [Radar]; player slot numbers on map dots; cheat / game:csgo) sit in the same visual radar lane beside external ESP/radar cheats and DMA overlays such as [[csgo-dma-overlay]]. (source: wiki/sources/descriptions/boltgolt__boltobserv.md)
 - External CS:GO ESP samples such as [[csgo-external-esp]] (forceinline; MIT; README `[External]`) sit in the same cheat / game:csgo lane beside RPM/driver externals. (source: wiki/sources/descriptions/forceinline__csgo-external-esp.md)
+- External CS:GO framework samples such as [[spy-external1337hax]] (0TheSpy; C++; Win32 + Direct3D9 overlay; out-of-process memory reads; BSP parsing, basic obfuscation, configurable feature modules; external cheat design + overlay automation reference; cheat / game:csgo [External]) sit in the same usermode external lane beside [[csgo-external-esp]] and [[heck-csgo-external]]. (source: wiki/sources/descriptions/0TheSpy__SpyExternal1337hax.md)
 - Lightweight C# external CS:GO samples such as [[echinoidea]] (M3351AN; bunnyhop, overlay ESP, trigger bot; offset-driven workflow; write-signal reduction and VAC-era detection tradeoff notes; educational external cheat design; README External C#) sit in the same usermode external cheat / game:csgo lane beside script and C++ RPM externals. (source: wiki/sources/descriptions/M3351AN__Echinoidea.md)
 - Cross-platform external CS:GO ESP samples such as [[goesp]] (danielkrupinski; modern C++; Dear ImGui overlay; memory-read entity ESP—boxes, names, health, weapons—drawn via the game's rendering pipeline; Windows and Linux; README `[Cross-platform]`) sit in the same cheat / game:csgo lane for studying external overlay ESP and detection surfaces beside internal references like [[osiris]]. (source: wiki/sources/descriptions/danielkrupinski__GOESP.md)
 - CS:GO **sound ESP** samples such as [[nv-v2]] (ekknod; C/C++; hooking; audio-derived positional awareness; README `[Sound ESP]`) sit in the same cheat / game:csgo lane as an alternative to visual overlay ESP. (source: wiki/sources/descriptions/ekknod__nv_v2.md)

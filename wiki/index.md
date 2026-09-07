@@ -3266,6 +3266,7 @@ Compiled knowledge catalog for awesome-game-security.
 - [spark-engine](entities/spark-engine.md) — cross-platform C++23 3D game engine (Krilliac; DX12/Vulkan/Metal RHI, ECS, Jolt Physics, ImGui editor; dedicated servers, replication, prediction, lag compensation, encryption, packet validation, memory integrity checks; ARPG/MMO/MMOFPS samples; Game Engine / source)
 - [sqlite-unity3d](entities/sqlite-unity3d.md) — Unity C# SQLite save/load sample (OguzKaira; DatabaseManager; player coordinates via StreamingAssets; keyboard shortcuts; learner persistence foundation; Game Engine / Unity SQLite)
 - [SpookiMystic-GTA-Leak](entities/spookimystic-gta-leak.md) — leaked GTA V online mod-menu source (RAGE scripting hooks; money drops / teleport / griefing; cheat / `[Menu]`; gmh5225)
+- [SpyExternal1337hax](entities/spy-external1337hax.md) — external CS:GO cheat framework (0TheSpy; C++; Win32 + Direct3D9 overlay; out-of-process memory reads; BSP parsing, obfuscation helpers, configurable features; external cheat design reference; cheat / game:csgo [External])
 - [Squally](entities/squally.md) — 2D platformer teaching game hacking via gameplay (C++ Cocos2d-x; values/operators/logic for memory reasoning; Win/macOS/Linux; Squalr)
 - [Squalr-Sharp](entities/squalr-sharp.md) — C#/.NET Windows memory editor (SIMD scan, pointers, NASM asm inject, WPF GUI + CLI + engine API, .NET object inspect; Squalr)
 - [StackSpoofer_Macro](entities/stack-spoofer-macro.md) — easy-to-use C/C++ macro for stack spoofing (gmh5225; Cheat Spoof Stack)

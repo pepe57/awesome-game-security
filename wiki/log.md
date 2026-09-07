@@ -4,6 +4,8 @@ Append-only journal of ingest / lint / skill-sync activity.
 
 ---
 
+- **2026-09-07** — ingest `description:0TheSpy/SpyExternal1337hax`: entity [[spy-external1337hax]] (0TheSpy; C++ external CS:GO; Win32 + Direct3D9 overlay; out-of-process memory reads; BSP parsing, basic obfuscation, configurable feature modules; external cheat design + overlay automation reference; cheat / game:csgo [External]); cited on [[overviews/game-hacking]] and [[overviews/graphics-api]]; cross-linked [[csgo-external-esp]], [[csgo-external-cheat]], [[heck-csgo-external]], and [[external-cheat-v3]].
+
 - **2026-09-07** — ingest `description:boggymc/PetalAntiFreecam`: entity [[petal-anti-freecam]] (boggymc; Java Paper/CanvasMC **1.21** plugin; PacketEvents outgoing chunk masking; ChunkMasker strips underground sections with air below configurable hide-Y for players above cutoff; tile-entity filtering; per-tick refresh budget; runtime reload; optional CanvasMC async teleport visibility listeners; lightweight server-side anti-freecam/wallhack without client mods; Anti Cheat / game:minecraft); cited on [[overviews/anti-cheat]] and [[overviews/game-hacking]]; cross-linked [[antixrayviewer]], [[bs-anticheat]], [[larping-anti-cheat]], [[anticheat-qa]], and [[minecraft-anticheat-list]].
 
 - **2026-09-07** — ingest `readme:categories`: Anti Cheat ~710 (+1; boggymc/[[petal-anti-freecam]] Paper chunk-packet freecam masking in Open Source Anti Cheat System) / Cheat ~2788 / other major section counts stable; 41 sections; entity [[petal-anti-freecam]]; refreshed README-map counts and scope on [[overviews/overview]], [[overviews/anti-cheat]], [[overviews/dma-attack]], and [[overviews/reverse-engineering]]; light `index.md` section notes (no per-category pages).
